@@ -1,5 +1,14 @@
 {
     "general" : {
         "default_radar_site" : "KLSX"
+    },
+    "palette" : {
+        "BR" : "",
+        "BV" : "",
+        "SW" : "",
+        "ZDR" : "",
+        "PHI" : "",
+        "CC" : "",
+        "???" : ""
     }
 }

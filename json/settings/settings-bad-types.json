@@ -1,5 +1,14 @@
 {
     "general" : {
         "default_radar_site" : 1
+    },
+    "palette" : {
+        "BR" : 1,
+        "BV" : 1,
+        "SW" : 1,
+        "ZDR" : 1,
+        "PHI" : 1,
+        "CC" : 1,
+        "???" : 1
     }
 }

@@ -1,5 +1,14 @@
 {
     "general" : {
         "default_radar_site" : "KEAX"
+    },
+    "palette" : {
+        "BR" : "",
+        "BV" : "",
+        "SW" : "",
+        "ZDR" : "",
+        "PHI" : "",
+        "CC" : "",
+        "???" : ""
     }
 }
