@@ -1,6 +1,8 @@
 {
     "general" : {
         "default_radar_site" : 1
+        "grid_width" : "",
+        "grid_height" : ""
     },
     "palette" : {
         "BR" : 1,
