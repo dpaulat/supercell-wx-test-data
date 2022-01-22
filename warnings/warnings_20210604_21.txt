@@ -1,0 +1,1593 @@
+
+448 
+FZUS71 KLWX 042103
+MWSLWX
+
+Marine Weather Statement
+National Weather Service Baltimore MD/Washington DC
+503 PM EDT Fri Jun 4 2021
+
+ANZ534-537-543-042113-
+/O.CAN.KLWX.MA.W.0091.000000T0000Z-210604T2145Z/
+503 PM EDT Fri Jun 4 2021
+
+...THE SPECIAL MARINE WARNING IS CANCELLED...
+
+The affected areas were... 
+Chesapeake Bay from Drum Point MD to Smith Point VA...
+Tangier Sound and the inland waters surrounding Bloodsworth Island...
+Tidal Potomac from Cobb Island MD to Smith Point VA...
+
+The thunderstorms have moved out of the area and no longer pose a
+significant threat to boaters.
+
+A Severe Thunderstorm Watch remains in effect until 900 PM EDT for
+the adjacent coastal waters.
+
+LAT...LON 3793 7631 3797 7614 3796 7603 3797 7594
+      3798 7590 3797 7590 3798 7586 3796 7586
+      3795 7589 3790 7591 3789 7624
+TIME...MOT...LOC 2102Z 284DEG 18KT 3805 7583 3779 7638 
+
+$$
+
+RCM
+
+
+474 
+WWUS51 KPHI 042103
+SVSPHI
+
+Severe Weather Statement
+National Weather Service Mount Holly NJ
+503 PM EDT Fri Jun 4 2021
+
+NJC005-042112-
+/O.CAN.KPHI.SV.W.0059.000000T0000Z-210604T2115Z/
+Burlington NJ-
+503 PM EDT Fri Jun 4 2021
+
+...THE SEVERE THUNDERSTORM WARNING FOR EAST CENTRAL BURLINGTON COUNTY
+IS CANCELLED...
+
+The storms which prompted the warning have moved out of the warned 
+area. Therefore, the warning has been cancelled.
+
+A Severe Thunderstorm Watch remains in effect until 800 PM EDT for
+southern New Jersey.
+
+LAT...LON 3975 7410 3983 7442 3984 7443 4001 7434
+      3991 7400
+TIME...MOT...LOC 2102Z 277DEG 31KT 4003 7412 3994 7423 
+
+$$
+
+NJC029-042115-
+/O.CON.KPHI.SV.W.0059.000000T0000Z-210604T2115Z/
+Ocean NJ-
+503 PM EDT Fri Jun 4 2021
+
+...A SEVERE THUNDERSTORM WARNING REMAINS IN EFFECT UNTIL 515 PM EDT
+FOR CENTRAL OCEAN COUNTY...
+
+At 502 PM EDT, severe thunderstorms were located along a line
+extending from near Brick Township to Holiday City South, moving east
+at 35 mph.
+
+HAZARD...60 mph wind gusts and quarter size hail.
+
+SOURCE...Radar indicated.
+
+IMPACT...Minor damage to vehicles is possible. Wind damage to roofs, 
+         siding, trees, and power lines is possible.
+
+Locations impacted include...
+Toms River, Beachwood, Lakehurst, Holiday City-Berkeley, Bamber Lake,
+Holiday City South, Pine Ridge At Crestwood, South Toms River, Island
+Heights, Silver Ridge, Crestwood Village, Holiday City, Holiday
+Heights and Waretown.
+
+This includes Garden State Parkway between mile markers 70 and 82.
+ 
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 3975 7410 3983 7442 3984 7443 4001 7434
+      3991 7400
+TIME...MOT...LOC 2102Z 277DEG 31KT 4003 7412 3994 7423 
+
+HAIL...1.00IN
+WIND...60MPH
+ 
+$$
+
+JEO
+
+
+478 
+WHUS51 KAKQ 042104
+SMWAKQ
+ANZ631-632-635>637-042230-
+/O.NEW.KAKQ.MA.W.0101.210604T2104Z-210604T2230Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Special Marine Warning
+National Weather Service Wakefield VA
+504 PM EDT Fri Jun 4 2021
+
+The National Weather Service in Wakefield has issued a
+
+* Special Marine Warning for...
+  Chesapeake Bay from Windmill Point to Little Creek VA...
+
+  James River from Jamestown to the James River Bridge...
+  York River...
+  Rappahannock River...
+
+* Until 630 PM EDT.
+
+* At 503 PM EDT, scattered strong thunderstorms were located along a 
+  line extending from near Urbanna Inlet to 15 nm west of White 
+  Stone Bridge to 15 nm northwest of Cobham Bay to 25 nm northwest 
+  of Burwell Bay, moving east at 25 knots.
+
+  HAZARD...Wind gusts 34 knots or greater.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Small craft could be damaged in briefly higher winds and 
+           suddenly higher waves.
+
+* strong thunderstorms will be near...
+  Urbanna Inlet around 515 PM EDT.
+  White Stone Bridge around 525 PM EDT.
+  Stingray Point around 540 PM EDT.
+  Gwynns Island Reef and Cobham Bay around 545 PM EDT.
+  Gwynns Island and Hole In The Wall around 550 PM EDT.
+  Mobjack Bay around 600 PM EDT.
+  Rappahannock Light, Rappahannock Range Light, Nassawadox Reef and 
+  Tue Marshes Light around 605 PM EDT.
+  Coleman Bridge around 610 PM EDT.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
+
+&&
+
+A Severe Thunderstorm Watch remains in effect until 900 PM EDT for
+eastern and southeastern Virginia.
+
+LAT...LON 3728 7673 3723 7658 3735 7670 3739 7668
+      3741 7662 3729 7647 3738 7645 3743 7629
+      3752 7635 3761 7663 3762 7662 3758 7580
+      3724 7599 3705 7629 3706 7637 3708 7632
+      3722 7657 3715 7657 3708 7648 3713 7679
+TIME...MOT...LOC 2103Z 277DEG 27KT 3759 7661 3749 7674 3745 7688 3736
+7693 3726 7713
+
+HAIL...0.00IN
+WIND...>34KTS
+
+$$
+
+ALB
+
+
+364 
+WWUS51 KLWX 042106
+SVSLWX
+
+Severe Weather Statement
+National Weather Service Baltimore MD/Washington DC
+506 PM EDT Fri Jun 4 2021
+
+MDC015-042116-
+/O.CAN.KLWX.SV.W.0106.000000T0000Z-210604T2130Z/
+Cecil MD-
+506 PM EDT Fri Jun 4 2021
+
+...THE SEVERE THUNDERSTORM WARNING FOR SOUTHEASTERN CECIL COUNTY IS
+CANCELLED...
+        
+The storm which prompted the warning has moved out of the area.
+Therefore, the warning has been cancelled.
+
+LAT...LON 3938 7582 3937 7585 3937 7587 3941 7587
+      3943 7585 3943 7577 3938 7577
+TIME...MOT...LOC 2105Z 320DEG 21KT 3934 7578 
+
+$$
+
+RCM
+
+
+112 
+WHUS51 KPHI 042109
+SMWPHI
+ANZ450>453-470>473-042315-
+/O.NEW.KPHI.MA.W.0030.210604T2109Z-210604T2315Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Special Marine Warning
+National Weather Service Mount Holly NJ
+509 PM EDT Fri Jun 4 2021
+
+The National Weather Service in Mount Holly NJ has issued a
+
+* Special Marine Warning for...
+  
+Coastal and outer waters from Sandy Hook to Cape May NJ...
+
+* Until 715 PM EDT.
+
+* At 508 PM EDT, severe thunderstorms capable of producing
+  waterspouts were located along a line extending from 10 nm
+  northeast of Shark River Reef to 14 nm northwest of Atlantic City,
+  moving southeast at 60 knots.
+
+  HAZARD...Waterspouts, wind gusts in excess of 50 knots, and small 
+           hail.
+
+  SOURCE...Radar.
+
+  IMPACT...Waterspouts can easily overturn boats and create locally 
+           hazardous seas. Boats could suffer significant structural 
+           damage in high winds. Small craft could capsize in 
+           suddenly higher waves.
+
+* Locations impacted include...
+  Ocean Gate, Atlantic City, Little Egg Reef, Atlantic City Reef,
+  Ship Bottom, Great Egg Inlet, Barnegat Light Reef, Garden State
+  South Reef, Harvey Cedars, Forked River, Great Egg Reef,
+  Lavallette, Beach Haven, Barnegat Light, North Beach Haven, Garden
+  State North Reef, Shark River Reef, Little Egg Inlet, Buoy Ge and
+  Seaside Park.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
+
+Frequent lightning is occurring with these storms. If caught on the
+open water, stay below deck if possible and keep away from ungrounded
+metal objects.
+
+&&
+
+LAT...LON 3966 7331 3949 7337 3905 7368 3891 7382
+      3939 7507 3943 7501 3932 7486 3935 7478
+      3947 7478 3949 7473 3938 7463 3947 7450
+      3956 7459 3960 7459 3960 7439 3970 7426
+      3982 7427 3989 7421 4023 7362 3986 7333
+TIME...MOT...LOC 2108Z 297DEG 58KT 4020 7350 3957 7464 
+
+WATERSPOUT...POSSIBLE
+HAIL...<.75IN
+WIND...50KTS
+
+$$
+
+Davis
+
+
+793 
+WUUS51 KPHI 042112
+SVRPHI
+NJC029-042130-
+/O.NEW.KPHI.SV.W.0060.210604T2112Z-210604T2130Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Mount Holly NJ
+512 PM EDT Fri Jun 4 2021
+
+The National Weather Service in Mount Holly NJ has issued a
+
+* Severe Thunderstorm Warning for...
+  Northeastern Ocean County in southern New Jersey...
+
+* Until 530 PM EDT.
+
+* At 512 PM EDT, severe thunderstorms were located along a line
+  extending from Point Pleasant Beach to near Brookville, moving east
+  at 45 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Minor damage to vehicles is possible. Wind damage to 
+           roofs, siding, trees, and power lines is possible.
+
+* Locations impacted include...
+  Toms River, Barnegat, Beachwood, Manasquan, Point Pleasant Beach,
+  Seaside Heights, Mantoloking, Brick Township, Dover Beaches North,
+  Brookville, Dover Beaches South, Point Pleasant, Brielle, South
+  Toms River, Sea Girt, Island Heights, Bay Head, Gilford Park,
+  Waretown and Ocean Acres.
+
+This includes Garden State Parkway between mile markers 67 and 81.
+ 
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 4013 7397 3997 7397 3974 7409 3975 7434
+      4012 7409 4009 7407 4012 7405 4010 7403
+      4012 7404
+TIME...MOT...LOC 2112Z 256DEG 40KT 4008 7406 3980 7426 
+
+HAIL...1.00IN
+WIND...60MPH
+ 
+$$
+
+JEO
+
+
+566 
+WWUS51 KPHI 042112
+SVSPHI
+
+Severe Weather Statement
+National Weather Service Mount Holly NJ
+512 PM EDT Fri Jun 4 2021
+
+NJC029-042122-
+/O.EXP.KPHI.SV.W.0059.000000T0000Z-210604T2115Z/
+Ocean NJ-
+512 PM EDT Fri Jun 4 2021
+
+...THE SEVERE THUNDERSTORM WARNING FOR CENTRAL OCEAN COUNTY WILL
+EXPIRE AT 515 PM EDT...
+    
+The storms which prompted the warning have moved out of the area.
+Therefore, the warning will be allowed to expire.
+
+A Severe Thunderstorm Watch remains in effect until 800 PM EDT for
+southern New Jersey.
+
+LAT...LON 3975 7410 3983 7442 3984 7443 4001 7434
+      3991 7400
+TIME...MOT...LOC 2112Z 277DEG 31KT 4003 7412 3994 7423 
+
+$$
+
+JEO
+
+
+693 
+WHUS52 KILM 042113
+SMWILM
+AMZ254-256-042145-
+/O.NEW.KILM.MA.W.0032.210604T2113Z-210604T2145Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Special Marine Warning
+National Weather Service Wilmington NC
+513 PM EDT Fri Jun 4 2021
+
+The National Weather Service in Wilmington has issued a
+
+* Special Marine Warning for...
+  Coastal waters from Little River Inlet to Murrells Inlet SC out 20
+  nm...
+  Coastal waters from Murrells Inlet to South Santee River SC out 20
+  nm...
+
+* Until 545 PM EDT.
+
+* At 512 PM EDT, a strong thunderstorm was located over Murrells
+  Inlet Sea Buoy, moving east at 15 knots.
+
+  HAZARD...Wind gusts 34 knots or greater.
+
+  SOURCE...Radar.
+
+  IMPACT...Small craft could be damaged in briefly higher winds and 
+           suddenly higher waves.
+
+* Locations impacted include...
+  Ten Mile Reef, Murrells Inlet Sea Buoy, Paradise Reef and Garden
+  City.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Move to safe harbor until hazardous weather passes.
+
+&&
+
+LAT...LON 3352 7904 3353 7904 3354 7903 3357 7901
+      3360 7897 3362 7878 3339 7881 3348 7909
+TIME...MOT...LOC 2112Z 278DEG 13KT 3352 7899 
+
+HAIL...0.00IN
+WIND...>34KTS
+
+$$
+
+21
+
+
+357 
+FZUS71 KOKX 042113
+MWSOKX
+
+Marine Weather Statement
+National Weather Service New York NY
+513 PM EDT Fri Jun 4 2021
+
+ANZ345-350-353-355-370-373-375-042245-
+513 PM EDT Fri Jun 4 2021
+
+...STRONG THUNDERSTORMS OVER THE WATERS...
+
+The areas affected include...
+
+  Sandy Hook NJ to Montauk Point out 40 NM...
+
+  Long Island South Shore Bays...
+
+At 512 PM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from near Fire Island Inlet to 12 nm
+northwest of Buoy 44025 to 10 nm southeast of Entrance to New York
+Harbor, moving east at 25 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until these storms pass.
+
+&&
+
+LAT...LON 3994 7337 4024 7363 4040 7344 4071 7328
+      4075 7312 4073 7310 4074 7305 4077 7300
+      4076 7295 4080 7288 4076 7286 4077 7284
+      4081 7284 4080 7276 4058 7250 4013 7246
+      4005 7270 3999 7293 3995 7329 3989 7335
+
+$$
+
+MW
+
+
+842 
+WWUS51 KPHI 042113
+SVSPHI
+
+Severe Weather Statement
+National Weather Service Mount Holly NJ
+513 PM EDT Fri Jun 4 2021
+
+NJC025-029-042123-
+/O.EXP.KPHI.SV.W.0057.000000T0000Z-210604T2115Z/
+Ocean NJ-Monmouth NJ-
+513 PM EDT Fri Jun 4 2021
+
+...THE SEVERE THUNDERSTORM WARNING FOR NORTHERN OCEAN AND MONMOUTH
+COUNTIES WILL EXPIRE AT 515 PM EDT...
+        
+The storm which prompted the warning has moved out of the area.
+Therefore, the warning will be allowed to expire. However, gusty 
+winds and heavy rain are still possible with this thunderstorm.
+
+A Severe Thunderstorm Watch remains in effect until 800 PM EDT for
+southern, northern and central New Jersey.
+
+LAT...LON 4009 7456 4019 7441 4033 7435 4040 7425
+      4044 7424 4045 7422 4044 7420 4046 7418
+      4041 7403 4041 7398 4048 7402 4048 7401
+      4043 7397 3987 7398
+TIME...MOT...LOC 2113Z 293DEG 26KT 4023 7373 
+
+$$
+
+Davis
+
+
+786 
+FZUS71 KOKX 042116
+MWSOKX
+
+Marine Weather Statement
+National Weather Service New York NY
+516 PM EDT Fri Jun 4 2021
+
+ANZ331-335-042245-
+516 PM EDT Fri Jun 4 2021
+
+...A THUNDERSTORM OVER THE WATERS...
+
+The areas affected include...
+
+  Central Long Island Sound...
+
+At 515 PM EDT, Doppler radar indicated thunderstorms, capable of 
+producing winds to around 30 knots. This thunderstorm was located 
+near Smithtown Bay, moving east at 25 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
+
+&&
+
+LAT...LON 4096 7269 4093 7312 4086 7321 4092 7330
+      4084 7346 4089 7361 4079 7363 4079 7364
+      4084 7370 4079 7369 4080 7374 4075 7376
+      4085 7383 4090 7384 4097 7368 4102 7367
+      4119 7318 4117 7311 4123 7307 4130 7288
+
+$$
+
+MW
+
+
+530 
+FZUS71 KOKX 042117
+MWSOKX
+
+Marine Weather Statement
+National Weather Service New York NY
+517 PM EDT Fri Jun 4 2021
+
+ANZ335-042126-
+/O.CAN.KOKX.MA.W.0011.000000T0000Z-210604T2130Z/
+517 PM EDT Fri Jun 4 2021
+
+...THE SPECIAL MARINE WARNING IS CANCELLED...
+
+The affected areas were... 
+
+  Long Island Sound West of New Haven CT / Port Jefferson NY...
+
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
+
+A Severe Thunderstorm Watch remains in effect until 800 PM EDT for
+southern Connecticut...and southeastern New York.
+
+LAT...LON 4097 7368 4103 7366 4106 7359 4104 7357
+      4107 7351 4106 7348 4112 7342 4112 7335
+      4091 7327 4088 7344 4084 7346 4090 7357
+      4089 7361 4079 7364 4084 7370 4079 7369
+      4080 7374 4075 7376 4090 7384
+TIME...MOT...LOC 2115Z 262DEG 28KT 4099 7315 
+
+$$
+
+MW
+
+
+906 
+FZUS72 KMFL 042120
+MWSMFL
+
+Marine Weather Statement
+National Weather Service Miami FL
+520 PM EDT Fri Jun 4 2021
+
+AMZ610-042215-
+520 PM EDT Fri Jun 4 2021
+
+...A STRONG THUNDERSTORM OVER THE WATERS...
+
+The areas affected include...
+  Lake Okeechobee...
+
+At 519 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+near Calusa, moving east at 25 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots and locally higher
+waves. Boaters should seek safe harbor immediately until this storm
+passes.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
+
+&&
+
+LAT...LON 2682 8068 2667 8067 2668 8086 2680 8108
+      2697 8116 2714 8091
+
+$$
+
+Hadi/CWC
+
+
+613 
+FZUS71 KBUF 042122
+MWSBUF
+
+Marine Weather Statement
+National Weather Service Buffalo NY
+522 PM EDT Fri Jun 4 2021
+
+SLZ022-024-042245-
+522 PM EDT Fri Jun 4 2021
+
+...A STRONG THUNDERSTORM APPROACHING THE SAINT LAWRENCE 
+RIVER...
+
+The areas affected include...  
+The Saint Lawrence River from Ogdensburg to Saint Regis...
+
+At 518 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots and small hail. This
+thunderstorm was located 25 nm west of Ogdensburg, moving east at 25 
+knots. It will move across the Saint Lawrence River from Ogdensburg 
+to Saint Regis between 615 PM and 715 PM.
+
+Locations impacted include...
+Tucker Terrace.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
+
+&&
+
+LAT...LON 4497 7488 4497 7491 4494 7495 4496 7497
+      4493 7501 4494 7502 4492 7508 4489 7512
+      4490 7514 4487 7516 4487 7522 4471 7547
+      4470 7551 4481 7533 4485 7529 4497 7497
+      4497 7500 4498 7499 4498 7491 4500 7487
+
+$$
+
+Apffel
+
+
+101 
+FZUS72 KILM 042124
+MWSILM
+
+Marine Weather Statement
+National Weather Service Wilmington NC
+524 PM EDT Fri Jun 4 2021
+
+AMZ254-256-042145-
+/O.CON.KILM.MA.W.0032.000000T0000Z-210604T2145Z/
+524 PM EDT Fri Jun 4 2021
+
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 545 PM EDT...
+
+For the following areas...
+Coastal waters from Little River Inlet to Murrells Inlet SC out 20
+nm...
+Coastal waters from Murrells Inlet to South Santee River SC out 20
+nm...
+
+At 524 PM EDT, a strong thunderstorm was located over Paradise Reef,
+moving east at 15 knots.
+
+HAZARD...Wind gusts to 40 knots.
+
+SOURCE...Radar indicated.
+
+IMPACT...Small craft could be damaged in briefly higher winds and 
+         suddenly higher waves.
+
+Locations impacted include...
+Ten Mile Reef, Murrells Inlet Sea Buoy, Paradise Reef and Garden
+City.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Move to safe harbor until hazardous weather passes.
+
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
+
+&&
+
+LAT...LON 3352 7904 3353 7904 3354 7903 3357 7901
+      3360 7897 3362 7878 3339 7881 3348 7909
+TIME...MOT...LOC 2124Z 278DEG 13KT 3351 7894 
+
+HAIL...0.00IN
+WIND...40KTS
+
+$$
+
+21
+
+
+504 
+FZUS71 KOKX 042125
+MWSOKX
+
+Marine Weather Statement
+National Weather Service New York NY
+525 PM EDT Fri Jun 4 2021
+
+ANZ345-353-355-375-042134-
+/O.EXP.KOKX.MA.W.0012.000000T0000Z-210604T2130Z/
+525 PM EDT Fri Jun 4 2021
+
+...THE SPECIAL MARINE WARNING WILL EXPIRE AT 530 PM EDT...
+
+The affected areas were... 
+
+  Sandy Hook NJ to Fire Island Inlet NY out 40 NM...
+  Fire Island Inlet to Moriches Inlet NY out 20 NM...
+
+  Long Island South Shore Bays...
+
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
+
+LAT...LON 4026 7365 4035 7383 4063 7374 4062 7372
+      4065 7370 4064 7364 4067 7355 4067 7339
+      4074 7323 4073 7318 4075 7316 4076 7314
+      4075 7312 4029 7321 4029 7322 4026 7322
+      4023 7362
+TIME...MOT...LOC 2124Z 274DEG 24KT 4045 7327 
+
+$$
+
+MW
+
+
+840 
+WWUS51 KPHI 042127
+SVSPHI
+
+Severe Weather Statement
+National Weather Service Mount Holly NJ
+527 PM EDT Fri Jun 4 2021
+
+NJC029-042137-
+/O.EXP.KPHI.SV.W.0060.000000T0000Z-210604T2130Z/
+Ocean NJ-
+527 PM EDT Fri Jun 4 2021
+
+...THE SEVERE THUNDERSTORM WARNING FOR NORTHEASTERN OCEAN COUNTY WILL
+EXPIRE AT 530 PM EDT...
+    
+The storms which prompted the warning have moved out of the area.
+Therefore, the warning will be allowed to expire.
+
+A Severe Thunderstorm Watch remains in effect until 800 PM EDT for
+central and southern New Jersey.
+
+LAT...LON 4013 7397 3997 7397 3974 7409 3975 7434
+      4012 7409 4009 7407 4012 7405 4010 7403
+      4012 7404
+TIME...MOT...LOC 2127Z 256DEG 40KT 4008 7406 3980 7426 
+
+$$
+
+JEO
+
+
+874 
+WFUS54 KLCH 042130
+TORLCH
+LAC023-042200-
+/O.NEW.KLCH.TO.W.0053.210604T2130Z-210604T2200Z/
+
+BULLETIN - EAS ACTIVATION REQUESTED
+Tornado Warning
+National Weather Service Lake Charles LA
+430 PM CDT Fri Jun 4 2021
+
+The National Weather Service in Lake Charles has issued a
+
+* Tornado Warning for...
+  Central Cameron Parish in southwestern Louisiana...
+
+* Until 500 PM CDT.
+    
+* At 430 PM CDT, a severe thunderstorm capable of producing a tornado
+  was located near Holly Beach, or 7 miles east of Johnsons Bayou,
+  and moving north at 5 to 10 mph.
+
+  HAZARD...Tornado.
+
+  SOURCE...Radar indicated rotation.
+
+  IMPACT...Flying debris will be dangerous to those caught without 
+           shelter. Mobile homes will be damaged or destroyed. 
+           Damage to roofs, windows, and vehicles will occur.  Tree 
+           damage is likely.
+
+* This tornadic thunderstorm will remain over mainly rural areas of
+  central Cameron Parish.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+TAKE COVER NOW! Move to an interior room on the lowest floor of a
+sturdy building. Avoid windows. If you are outdoors, in a mobile
+home, or in a vehicle, move to the closest substantial shelter and
+protect yourself from flying debris.
+
+Heavy rainfall may hide this tornado. Do not wait to see or hear the
+tornado. TAKE COVER NOW!
+
+&&
+
+LAT...LON 2986 9360 2987 9345 2977 9349 2976 9356
+      2977 9356
+TIME...MOT...LOC 2130Z 169DEG 3KT 2978 9353 
+
+TORNADO...RADAR INDICATED
+HAIL...<.75IN
+
+$$
+
+25
+
+
+108 
+WHUS54 KLCH 042131
+SMWLCH
+GMZ450-042230-
+/O.NEW.KLCH.MA.W.0078.210604T2131Z-210604T2230Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Special Marine Warning
+National Weather Service Lake Charles LA
+431 PM CDT Fri Jun 4 2021
+
+The National Weather Service in Lake Charles has issued a
+
+* Special Marine Warning for...
+  Coastal waters from Cameron LA to High Island TX out 20 NM...
+
+* Until 530 PM CDT.
+
+* At 430 PM CDT, a severe thunderstorm capable of producing
+  waterspouts was located over West Cameron 45, or 11 nm east of The
+  Mouth Of The Sabine River, moving northeast at 5 knots.
+
+  HAZARD...Waterspouts and wind gusts 34 knots or greater.
+
+  SOURCE...Radar.
+
+  IMPACT...Waterspouts can easily overturn boats and create locally 
+           hazardous seas. Small craft could be damaged in briefly 
+           higher winds and suddenly higher waves.
+
+* Locations impacted include...
+  West Cameron 45.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Thunderstorms can produce sudden waterspouts. Waterspouts can easily
+overturn boats and create locally hazardous seas. Seek safe harbor
+immediately.
+
+&&
+
+LAT...LON 2976 9341 2953 9356 2961 9374 2975 9368
+      2975 9360 2977 9350 2977 9346
+TIME...MOT...LOC 2130Z 207DEG 7KT 2964 9362 
+
+WATERSPOUT...POSSIBLE
+HAIL...0.00IN
+WIND...>34KTS
+
+$$
+
+Rua
+
+
+086 
+WHUS51 KPHI 042132
+SMWPHI
+ANZ450-451-470-042230-
+/O.NEW.KPHI.MA.W.0031.210604T2132Z-210604T2230Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Special Marine Warning
+National Weather Service Mount Holly NJ
+532 PM EDT Fri Jun 4 2021
+
+The National Weather Service in Mount Holly NJ has issued a
+
+* Special Marine Warning for...
+  
+Coastal waters from Sandy Hook to Little Egg Inlet NJ out 20 nm...
+Outer waters from Sandy Hook to Manasquan Inlet NJ out 20 to 40 nm...
+
+* Until 630 PM EDT.
+
+* At 531 PM EDT, a strong thunderstorm was located 9 nm southwest of
+  Shark River Reef, moving southeast at 50 knots.
+
+  HAZARD...Wind gusts to nearly 50 knots and small hail.
+
+  SOURCE...Radar.
+
+  IMPACT...Small craft could be damaged in briefly higher winds and 
+           suddenly higher waves.
+
+* Locations impacted include...
+  Ocean Gate, Sea Girt Reef, Barnegat Light Reef, Axel Carlson Reef,
+  Silverton, Lavallette, Shark River Reef, Point Pleasant Beach,
+  Belmar, Seaside Park, Manasquan Inlet, Pine Beach and Monmouth
+  Beach.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Frequent lightning is occurring with this storm. If caught on the
+open water, stay below deck if possible and keep away from ungrounded
+metal objects.
+
+&&
+
+LAT...LON 4026 7365 4009 7350 3999 7369 4000 7370
+      3999 7371 3981 7404 3994 7425 3996 7425
+      4000 7420 4018 7412 4023 7408 4024 7405
+      4026 7405 4040 7392
+TIME...MOT...LOC 2131Z 297DEG 49KT 3998 7379 
+
+HAIL...<.75IN
+WIND...49KTS
+
+$$
+
+Davis
+
+
+559 
+WHUS51 KAKQ 042134
+SMWAKQ
+ANZ632-634-637-638-042330-
+/O.NEW.KAKQ.MA.W.0102.210604T2134Z-210604T2330Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Special Marine Warning
+National Weather Service Wakefield VA
+534 PM EDT Fri Jun 4 2021
+
+The National Weather Service in Wakefield has issued a
+
+* Special Marine Warning for...
+  Chesapeake Bay from New Point Comfort to Little Creek VA...
+  Entrance to the Chesapeake Bay including the Chesapeake Bay Bridge
+  Tunnel...
+  James River from Jamestown to the Hampton Roads Bridge Tunnel...
+
+* Until 730 PM EDT.
+
+* At 534 PM EDT, strong thunderstorms were located along a line
+  extending from 10 nm northwest of Coleman Bridge to 14 nm west of
+  Cobham Bay, moving southeast at 25 knots.
+
+  HAZARD...Wind gusts 34 knots or greater.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Small craft could be damaged in briefly higher winds and 
+           suddenly higher waves.
+
+* strong thunderstorms will be near...
+  Poquoson around 615 PM EDT.
+  Burwell Bay around 620 PM EDT.
+  The Hump and James River Bridge around 640 PM EDT.
+  Bluefish Rock and Thimble Shoals around 645 PM EDT.
+  Cabbage Patch, Dominion Pier and Plantation Light around 650 PM 
+  EDT.
+  Monitor Merrimack Bridge Tunnel, Hampton Flats and Hampton River 
+  Inlet around 655 PM EDT.
+  Latimer Shoal, 4th Island Bay Bridge, Kiptopeke Concrete Ships, 
+  Sewells Point, Chesapeake Bay Bridge Tunnel, 1st Island Bay Bridge 
+  and Hampton Roads Bridge Tunnel around 700 PM EDT.
+  Fishermans Island and Willoughby Bay around 705 PM EDT.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
+
+&&
+
+A Severe Thunderstorm Watch remains in effect until 900 PM EDT for
+eastern and southeastern Virginia.
+
+LAT...LON 3715 7657 3702 7640 3709 7632 3712 7644
+      3717 7645 3724 7599 3711 7592 3713 7594
+      3712 7597 3709 7593 3680 7607 3683 7617
+      3688 7618 3692 7626 3687 7636 3693 7655
+      3696 7657 3696 7665 3709 7670 3711 7677
+TIME...MOT...LOC 2134Z 297DEG 24KT 3737 7667 3712 7704 
+
+HAIL...0.00IN
+WIND...>34KTS
+
+$$
+
+ALB
+
+
+691 
+WHUS52 KILM 042135
+SMWILM
+AMZ254-256-276-042230-
+/O.NEW.KILM.MA.W.0033.210604T2135Z-210604T2230Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Special Marine Warning
+National Weather Service Wilmington NC
+535 PM EDT Fri Jun 4 2021
+
+The National Weather Service in Wilmington has issued a
+
+* Special Marine Warning for...
+  Coastal waters from Little River Inlet to Murrells Inlet SC out 20
+  nm...
+  Coastal waters from Murrells Inlet to South Santee River SC out 20
+  nm...
+  Waters from Murrells Inlet NC to South Santee River SC from 20 to
+  40 nm...
+
+* Until 630 PM EDT.
+
+* At 535 PM EDT, a strong thunderstorm was located near Ten Mile
+  Reef, moving east at 10 knots.
+
+  HAZARD...Wind gusts to 40 knots.
+
+  SOURCE...Radar.
+
+  IMPACT...Small craft could be damaged in briefly higher winds and 
+           suddenly higher waves.
+
+* Locations impacted include...
+  Belky Bear, Ten Mile Reef and Paradise Reef. 
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Move to safe harbor until hazardous weather passes.
+
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
+
+&&
+
+LAT...LON 3355 7898 3363 7889 3363 7856 3356 7854
+      3345 7859 3336 7867 3341 7901
+TIME...MOT...LOC 2135Z 277DEG 12KT 3350 7889 
+
+HAIL...0.00IN
+WIND...40KTS
+
+$$
+
+21
+
+
+084 
+FZUS72 KILM 042137
+MWSILM
+
+Marine Weather Statement
+National Weather Service Wilmington NC
+537 PM EDT Fri Jun 4 2021
+
+AMZ254-256-042145-
+/O.EXP.KILM.MA.W.0032.000000T0000Z-210604T2145Z/
+537 PM EDT Fri Jun 4 2021
+
+...THE SPECIAL MARINE WARNING WILL EXPIRE AT 545 PM EDT...
+
+The affected areas were... 
+Coastal waters from Little River Inlet to Murrells Inlet SC out 20
+nm...
+Coastal waters from Murrells Inlet to South Santee River SC out 20
+nm...
+
+The warning has been extended as the threat of gusty winds greater 
+than 34 knots continues.
+
+LAT...LON 3352 7904 3353 7904 3354 7903 3357 7901
+      3360 7897 3362 7878 3339 7881 3348 7909
+TIME...MOT...LOC 2135Z 278DEG 13KT 3350 7889 
+
+$$
+
+21
+
+
+294 
+FZUS72 KCHS 042138
+MWSCHS
+
+Marine Weather Statement
+National Weather Service Charleston SC
+538 PM EDT Fri Jun 4 2021
+
+AMZ330-042215-
+538 PM EDT Fri Jun 4 2021
+
+...WIND SHIFT APPROACHING CHARLESTON HARBOR...
+
+At 537 PM EDT, wind shifts were located along a line extending from 
+6 nm west of Capers Island Buoy to 9 nm west of Wappoo Cut, moving 
+south at 10 knots.
+
+  HAZARD...Winds up to 30 knots.
+
+  IMPACT...Expect briefly stronger winds and suddenly higher waves.
+
+Marine locations impacted through 615 PM EDT include: 
+Wappoo Cut...                     Crab Bank...
+Castle Pinkney...                 Charleston Harbor Entrance...
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Boaters should seek safe harbor immediately. Put on a personal 
+flotation device.
+
+&&
+
+LAT...LON 3276 7982 3275 7984 3275 7986 3270 7988
+      3271 7990 3277 7999 3280 7997 3284 7996
+      3284 7995 3285 7990
+
+$$
+
+
+598 
+WUUS55 KPIH 042140
+SVRPIH
+IDC031-042230-
+/O.NEW.KPIH.SV.W.0002.210604T2140Z-210604T2230Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Pocatello ID
+340 PM MDT Fri Jun 4 2021
+
+The National Weather Service in Pocatello has issued a
+
+* Severe Thunderstorm Warning for...
+  Southwestern Cassia County in southeastern Idaho...
+
+* Until 430 PM MDT.
+
+* At 340 PM MDT, a severe thunderstorm was located southeast of 
+  Oakley Reservoir, moving east at 25 mph.
+
+  HAZARD...Quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Damage to vehicles is expected.
+
+* Locations impacted include...
+  Oakley Reservoir, Almo, Elba, Mt Harrison and City Of Rocks. 
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+Large hail and damaging winds and continuous cloud to ground
+lightning is occurring with this storm. Move indoors immediately.
+Lightning is one of nature's leading killers. Remember, if you can
+hear thunder, you are close enough to be struck by lightning.
+
+&&
+
+LAT...LON 4199 11401 4212 11409 4237 11358 4210 11342
+      4199 11392
+TIME...MOT...LOC 2140Z 248DEG 22KT 4209 11395 
+
+HAIL...1.00IN
+WIND...<50MPH
+ 
+$$
+
+Huston
+
+
+091 
+FZUS74 KLCH 042150
+MWSLCH
+
+Marine Weather Statement
+National Weather Service Lake Charles LA
+450 PM CDT Fri Jun 4 2021
+
+GMZ450-042230-
+/O.CON.KLCH.MA.W.0078.000000T0000Z-210604T2230Z/
+450 PM CDT Fri Jun 4 2021
+
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 530 PM CDT...
+
+For the following areas...
+Coastal waters from Cameron LA to High Island TX out 20 NM...
+
+At 449 PM CDT, a severe thunderstorm capable of producing waterspouts
+was located over West Cameron 45, or 14 nm east of The Mouth Of The
+Sabine River, moving northeast at 10 knots.
+
+HAZARD...Waterspouts and wind gusts 34 knots or greater.
+
+SOURCE...Radar indicated.
+
+IMPACT...Waterspouts can easily overturn boats and create locally 
+         hazardous seas. Small craft could be damaged in briefly 
+         higher winds and suddenly higher waves.
+
+Locations impacted include...
+West Cameron 45.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Thunderstorms can produce sudden waterspouts. Waterspouts can easily
+overturn boats and create locally hazardous seas. Seek safe harbor
+immediately.
+
+&&
+
+LAT...LON 2976 9341 2957 9357 2962 9372 2975 9368
+      2975 9360 2977 9350 2977 9346
+TIME...MOT...LOC 2149Z 225DEG 11KT 2967 9356 
+
+WATERSPOUT...POSSIBLE
+HAIL...0.00IN
+WIND...>34KTS
+
+$$
+
+Rua
+
+
+269 
+FZUS71 KAKQ 042151
+MWSAKQ
+
+Marine Weather Statement
+National Weather Service Wakefield VA
+551 PM EDT Fri Jun 4 2021
+
+ANZ630-631-635-042201-
+/O.EXP.KAKQ.MA.W.0100.000000T0000Z-210604T2200Z/
+551 PM EDT Fri Jun 4 2021
+
+...THE SPECIAL MARINE WARNING WILL EXPIRE AT 600 PM EDT...
+
+The affected areas were... 
+  Chesapeake Bay from Smith Point to New Point Comfort VA...
+
+  Rappahannock River...
+
+The thunderstorms are moving out of the warned area and no longer 
+pose a significant threat to boaters.
+
+A Severe Thunderstorm Watch remains in effect until 900 PM EDT for
+eastern and southeastern Virginia...and the adjacent coastal waters.
+
+LAT...LON 3770 7655 3778 7655 3780 7648 3777 7638
+      3779 7637 3785 7647 3792 7645 3789 7614
+      3789 7604 3793 7603 3790 7603 3790 7591
+      3798 7587 3802 7576 3798 7561 3783 7565
+      3755 7592 3755 7631 3764 7664
+TIME...MOT...LOC 2151Z 270DEG 36KT 3817 7500 3789 7553 
+
+$$
+
+ALB
+
+
+109 
+WUUS51 KBOX 042153
+SVRBOX
+CTC003-013-042230-
+/O.NEW.KBOX.SV.W.0010.210604T2153Z-210604T2230Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Boston/Norton MA
+553 PM EDT Fri Jun 4 2021
+
+The National Weather Service in Boston/Norton has issued a
+
+* Severe Thunderstorm Warning for...
+  Southwestern Tolland County in northern Connecticut...
+  Southeastern Hartford County in northern Connecticut...
+
+* Until 630 PM EDT.
+
+* At 553 PM EDT, a severe thunderstorm was located over Marlborough,
+  or near Glastonbury, and is nearly stationary.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Public.
+
+  IMPACT...Expect wind damage to trees and power lines. Minor hail 
+           damage to vehicles is possible.
+
+* Locations impacted include...
+  Glastonbury, Hebron and Marlborough. 
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+This storm is producing large hail. SEEK SHELTER NOW inside a sturdy
+structure and stay away from windows!
+
+Large hail and damaging winds and continuous cloud to ground
+lightning is occurring with this storm. Move indoors immediately.
+Lightning is one of nature's leading killers. Remember, if you can
+hear thunder, you are close enough to be struck by lightning.
+
+&&
+
+LAT...LON 4170 7254 4170 7242 4164 7233 4160 7234
+      4160 7238 4159 7239 4160 7241 4158 7246
+      4159 7246 4165 7251 4164 7255
+TIME...MOT...LOC 2153Z 336DEG 2KT 4164 7249 
+
+HAIL...1.00IN
+WIND...60MPH
+ 
+$$
+
+Belk
+
+
+000 
+WHUS51 KLWX 042159
+SMWLWX
+ANZ530-042330-
+/O.NEW.KLWX.MA.W.0092.210604T2159Z-210604T2330Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Special Marine Warning
+National Weather Service Baltimore MD/Washington DC
+559 PM EDT Fri Jun 4 2021
+
+The National Weather Service in Sterling Virginia has issued a
+
+* Special Marine Warning for...
+  Chesapeake Bay north of Pooles Island MD...
+
+* Until 730 PM EDT.
+
+* At 558 PM EDT, a strong thunderstorm was located 7 nm northwest of
+  Havre De Grace, moving southeast at 20 knots.
+
+  HAZARD...Wind gusts 34 knots or greater.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Boaters in small craft could be thrown overboard by 
+           suddenly higher winds and waves capsizing their vessel.
+
+* Locations impacted include...
+  Northeast River, Turkey Point, Spesutie Island, Aberdeen Proving
+  Ground and Havre De Grace.
+
+LAT...LON 3955 7600 3953 7597 3941 7599 3938 7604
+      3939 7605 3944 7611 3945 7608 3948 7611
+      3948 7612 3949 7613 3950 7613 3951 7614
+      3954 7609 3954 7608 3955 7606
+TIME...MOT...LOC 2158Z 312DEG 21KT 3965 7621 
+
+HAIL...0.00IN
+WIND...>34KTS
+
+$$
+
+RCM
+
+
+197 
+WHUS51 KAKQ 042159
+SMWAKQ
+ANZ654-656-050000-
+/O.NEW.KAKQ.MA.W.0103.210604T2159Z-210605T0000Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Special Marine Warning
+National Weather Service Wakefield VA
+559 PM EDT Fri Jun 4 2021
+
+The National Weather Service in Wakefield has issued a
+
+* Special Marine Warning for...
+
+  Coastal Waters from Parramore Island to the VA/NC Border out 20
+NM...
+
+* Until 800 PM EDT.
+
+* At 558 PM EDT, strong thunderstorms were located along a line
+  extending from near Nandua Pungoteague Reef to 6 nm northwest of 
+  Mobjack Bay to Coleman Bridge to Cobham Bay, moving east at 25 
+  knots.
+
+  HAZARD...Wind gusts to 40 to 45 knots.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Small craft could be damaged in briefly higher winds and 
+           suddenly higher waves.
+
+* strong thunderstorms will be near...
+  Poquoson, Tue Marshes Light and Gwynns Island around 620 PM EDT.
+  New Point Comfort around 630 PM EDT.
+  York Spit Reef around 635 PM EDT.
+  Parramore Island and Quinby Inlet around 640 PM EDT.
+  James River Bridge around 645 PM EDT.
+  The Hump around 650 PM EDT.
+  Dominion Pier around 655 PM EDT.
+  Cherrystone Reef and Monitor Merrimack Bridge Tunnel around 700 PM 
+  EDT.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
+
+&&
+
+A Severe Thunderstorm Watch remains in effect until 900 PM EDT for
+eastern and southeastern Virginia.
+
+LAT...LON 3718 7679 3713 7662 3723 7661 3702 7640
+      3725 7660 3738 7657 3731 7644 3752 7629
+      3739 7625 3733 7601 3762 7586 3764 7589
+      3764 7587 3748 7528 3696 7558 3668 7591
+      3682 7601 3688 7635 3713 7679
+TIME...MOT...LOC 2158Z 286DEG 19KT 3762 7591 3742 7646 3722 7653 3714
+7677
+
+HAIL...0.00IN
+WIND...40KTS
+
+$$
+
+ALB
+
+
+198 
+WUUS51 KAKQ 042159
+SVRAKQ
+VAC093-095-181-199-650-700-735-042300-
+/O.NEW.KAKQ.SV.W.0096.210604T2159Z-210604T2300Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Wakefield VA
+559 PM EDT Fri Jun 4 2021
+
+The National Weather Service in Wakefield has issued a
+
+* Severe Thunderstorm Warning for...
+  The City of Poquoson in southeastern Virginia...
+  Northeastern Isle of Wight County in southeastern Virginia...
+  York County in southeastern Virginia...
+  The City of Hampton in southeastern Virginia...
+  The City of Newport News in southeastern Virginia...
+  East central Surry County in southeastern Virginia...
+  Southeastern James City County in southeastern Virginia...
+
+* Until 700 PM EDT.
+
+* At 558 PM EDT, severe thunderstorms were located along a line
+  extending from Wicomico to near Busch Gardens to Surry, moving
+  southeast at 15 mph.
+
+  HAZARD...60 mph wind gusts.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect damage to trees and powerlines.
+
+* Severe thunderstorms will be near,
+  Gloucester Point around 605 PM EDT.
+  Virginia Institute For Marine Sciences and Lee Hall around 610 PM 
+  EDT.
+  Newport News and Fort Eustis around 615 PM EDT.
+  Denbigh around 625 PM EDT.
+  Seaford and Patrick Henry Field around 630 PM EDT.
+  Tabb around 635 PM EDT.
+  Christopher Newport University and Beaconsdale around 645 PM EDT.
+  Hampton and Smithfield around 650 PM EDT.
+
+Other locations impacted by these severe thunderstorms include
+Rushmere, Carrollton, Chippokes State Park, Lackey, Benns Church,
+Oriana, Hilton Village, Newport News Golf Course, Poolesville and
+Oyster Point.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+Please report severe weather by calling 757-899-2415, posting to the
+NWS Wakefield Facebook page, or using Twitter @NWSWAKEFIELDVA.
+
+&&
+
+LAT...LON 3698 7633 3692 7648 3693 7649 3691 7650
+      3691 7653 3692 7653 3689 7657 3711 7683
+      3729 7657 3727 7651 3725 7650 3725 7646
+      3720 7629 3715 7625 3710 7623
+TIME...MOT...LOC 2158Z 307DEG 14KT 3727 7654 3719 7663 3713 7681 
+
+HAIL...<.75IN
+WIND...60MPH
+ 
+$$
+
+EI
+
+
+327 
+WUUS55 KPIH 042159
+SVRPIH
+IDC033-042245-
+/O.NEW.KPIH.SV.W.0003.210604T2159Z-210604T2245Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Pocatello ID
+359 PM MDT Fri Jun 4 2021
+
+The National Weather Service in Pocatello has issued a
+
+* Severe Thunderstorm Warning for...
+  Central Clark County in southeastern Idaho...
+
+* Until 445 PM MDT.
+
+* At 359 PM MDT, a severe thunderstorm was located 20 miles northwest
+  of Dubois, moving east at 25 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Hail damage to vehicles is expected. Expect wind damage 
+           to roofs, siding, and trees.
+
+* Locations impacted include...
+  Spencer, Edie School, Small and Humphrey. 
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 4423 11206 4416 11276 4436 11279 4446 11241
+      4445 11239 4447 11237 4452 11216
+TIME...MOT...LOC 2159Z 253DEG 20KT 4430 11261 
+
+HAIL...1.00IN
+WIND...60MPH
+ 
+$$
+
+Huston
+
+

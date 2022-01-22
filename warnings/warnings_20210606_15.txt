@@ -1,0 +1,374 @@
+
+954 
+WFUS54 KLIX 061501
+TORLIX
+LAC075-061600-
+/O.NEW.KLIX.TO.W.0032.210606T1501Z-210606T1600Z/
+
+BULLETIN - EAS ACTIVATION REQUESTED
+Tornado Warning
+National Weather Service New Orleans LA
+1001 AM CDT Sun Jun 6 2021
+
+The National Weather Service in New Orleans has issued a
+
+* Tornado Warning for...
+  Central Plaquemines Parish in southeastern Louisiana...
+
+* Until 1100 AM CDT.
+    
+* At 1001 AM CDT, a severe thunderstorm capable of producing a
+  tornado was located near Empire, or 13 miles southeast of Port
+  Sulphur, moving north at 15 mph.
+
+  HAZARD...Tornado.
+
+  SOURCE...Radar indicated rotation.
+
+  IMPACT...Flying debris will be dangerous to those caught without 
+           shelter. Mobile homes will be damaged or destroyed. 
+           Damage to roofs, windows, and vehicles will occur.  Tree 
+           damage is likely.
+
+* This dangerous storm will be near...
+  Buras around 1010 AM CDT.
+  Buras-triumph around 1015 AM CDT.
+  Empire around 1030 AM CDT.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+To report severe weather contact your nearest law enforcement agency.
+They will send your report to the National Weather Service office in
+New Orleans.
+
+Torrential rainfall is occurring with this storm, and may lead to
+flash flooding. Do not drive your vehicle through flooded roadways.
+
+&&
+
+LAT...LON 2925 8961 2929 8962 2928 8966 2929 8967
+      2931 8963 2933 8964 2929 8969 2930 8971
+      2931 8968 2931 8974 2956 8971 2944 8954
+      2940 8952 2940 8954 2941 8957 2939 8956
+      2939 8947 2924 8953
+TIME...MOT...LOC 1501Z 188DEG 14KT 2933 8963 
+
+TORNADO...RADAR INDICATED
+HAIL...<.75IN
+
+$$
+ABS
+
+
+952 
+WHUS54 KLIX 061514
+SMWLIX
+GMZ550-570-061645-
+/O.NEW.KLIX.MA.W.0285.210606T1514Z-210606T1645Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Special Marine Warning
+National Weather Service New Orleans LA
+1014 AM CDT Sun Jun 6 2021
+
+The National Weather Service in New Orleans has issued a
+
+* Special Marine Warning for...
+  Coastal Waters from Port Fourchon LA to Lower Atchafalaya River LA
+  out 20 nm...
+  Coastal waters from Port Fourchon Louisiana to Lower Atchafalaya
+  River LA from 20 to 60 NM...
+
+* Until 1145 AM CDT.
+
+* At 1013 AM CDT, a severe thunderstorm capable of producing
+  waterspouts was located 16 nm east of Ship Shoal 198, or 30 nm
+  south of Isle Derniers, moving north at 20 knots.
+
+  HAZARD...Waterspouts and wind gusts 34 knots or greater.
+
+  SOURCE...Radar.
+
+  IMPACT...Expect wind gusts in excess of 34 knots and suddenly 
+           higher waves. Waterspouts can quickly form and capsize 
+           boats...damage vessels and oil rigs...and create suddenly 
+           higher waves. Make sure all on board are in a secure 
+           location and wearing life jackets. 
+
+* Locations impacted include...
+  Isle Derniers and Caillou Bay. 
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
+
+Thunderstorms can produce sudden waterspouts. Waterspouts can easily
+overturn boats and create locally hazardous seas. Seek safe harbor
+immediately.
+
+&&
+
+LAT...LON 2919 9114 2916 9094 2910 9088 2910 9084
+      2912 9081 2910 9080 2912 9078 2911 9074
+      2913 9073 2911 9071 2913 9069 2910 9049
+      2845 9088 2849 9119
+TIME...MOT...LOC 1513Z 200DEG 22KT 2856 9095 
+
+WATERSPOUT...POSSIBLE
+HAIL...0.00IN
+WIND...>34KTS
+
+$$
+
+95/DM
+
+
+260 
+WWUS54 KLIX 061517
+SVSLIX
+
+Severe Weather Statement
+National Weather Service New Orleans LA
+1017 AM CDT Sun Jun 6 2021
+
+LAC075-061600-
+/O.CON.KLIX.TO.W.0032.000000T0000Z-210606T1600Z/
+Plaquemines LA-
+1017 AM CDT Sun Jun 6 2021
+
+...A TORNADO WARNING REMAINS IN EFFECT UNTIL 1100 AM CDT FOR CENTRAL
+PLAQUEMINES PARISH...
+    
+At 1017 AM CDT, a severe thunderstorm capable of producing a tornado
+was located over Empire, or 9 miles southeast of Port Sulphur, moving
+north at 15 mph.
+
+HAZARD...Tornado.
+
+SOURCE...Radar indicated rotation.
+
+IMPACT...Flying debris will be dangerous to those caught without 
+         shelter. Mobile homes will be damaged or destroyed. Damage 
+         to roofs, windows, and vehicles will occur.  Tree damage is 
+         likely.
+
+This dangerous storm will be near...
+  Empire around 1035 AM CDT.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+If a tornado or other severe weather is spotted, report it to the
+National Weather Service or your local nearest law enforcement agency
+who will send your report. This act may save lives of others in the
+path of dangerous weather.
+
+Torrential rainfall is occurring with this storm, and may lead to
+flash flooding. Do not drive your vehicle through flooded roadways.
+
+&&
+
+LAT...LON 2925 8961 2929 8962 2928 8966 2929 8967
+      2931 8963 2933 8964 2929 8969 2930 8971
+      2931 8968 2931 8974 2956 8971 2944 8954
+      2940 8952 2940 8954 2941 8957 2939 8956
+      2939 8947 2924 8953
+TIME...MOT...LOC 1517Z 188DEG 14KT 2939 8962 
+
+TORNADO...RADAR INDICATED
+HAIL...0.00IN
+
+$$
+
+ABS
+
+
+875 
+WGUS54 KJAN 061525
+FFWJAN
+MSC065-077-061700-
+/O.EXT.KJAN.FF.W.0023.000000T0000Z-210606T1700Z/
+/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+
+BULLETIN - EAS ACTIVATION REQUESTED
+Flash Flood Warning
+National Weather Service Jackson MS
+1025 AM CDT Sun Jun 6 2021
+
+The National Weather Service in Jackson has extended the
+
+* Flash Flood Warning for...
+  Northwestern Jefferson Davis County in south central Mississippi...
+  Lawrence County in south central Mississippi...
+
+* Until noon CDT.
+
+* At 1025 AM CDT, Doppler radar indicated thunderstorms producing 
+  heavy rain across the warned area. Between 4 and 7 inches of rain 
+  have fallen. Flash flooding is ongoing or expected to begin 
+  shortly.
+
+  HAZARD...Life threatening flash flooding. Thunderstorms
+           producing flash flooding.
+
+  SOURCE...Doppler radar.
+
+  IMPACT...Life threatening flash flooding of creeks and streams,
+           urban areas, highways, streets and underpasses.
+
+* Some locations that will experience flash flooding include...
+  Monticello, Wanilla, Oma, Sontag, Robinwood, New Hebron and Silver 
+  Creek.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Turn around, don't drown when encountering flooded roads. Most flood 
+deaths occur in vehicles.
+
+&&
+
+LAT...LON 3149 9006 3144 9024 3172 9025 3176 9013
+      3177 8985 3163 8994
+
+FLASH FLOOD...RADAR INDICATED
+FLASH FLOOD DAMAGE THREAT...CONSIDERABLE
+EXPECTED RAINFALL...1-2 INCHES IN 1 HOUR 
+
+$$
+
+TW
+
+
+392 
+WHUS54 KLIX 061526
+SMWLIX
+GMZ538-061630-
+/O.NEW.KLIX.MA.W.0286.210606T1526Z-210606T1630Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Special Marine Warning
+National Weather Service New Orleans LA
+1026 AM CDT Sun Jun 6 2021
+
+The National Weather Service in New Orleans has issued a
+
+* Special Marine Warning for...
+  Breton Sound...
+
+* Until 1130 AM CDT.
+
+* At 1025 AM CDT, a severe thunderstorm capable of producing
+  waterspouts was located 16 nm east of Barataria Bay, moving north
+  at 15 knots.
+
+  HAZARD...Waterspouts and wind gusts 34 knots or greater.
+
+  SOURCE...Radar.
+
+  IMPACT...Waterspouts can quickly form and capsize boats...damage 
+           vessels and oil rigs...and create suddenly higher waves. 
+           Make sure all on board are in a secure location and 
+           wearing life jackets. Expect wind gusts in excess of 34 
+           knots and suddenly higher waves. Boats could sustain 
+           damage or capsize. Make sure all on board are wearing 
+           life jackets. Return to safe harbor if possible.
+
+* The severe thunderstorm will remain over mainly open waters.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Thunderstorms can produce sudden waterspouts. Waterspouts can easily
+overturn boats and create locally hazardous seas. Seek safe harbor
+immediately.
+
+&&
+
+LAT...LON 2966 8942 2938 8952 2939 8956 2940 8957
+      2943 8955 2946 8957 2947 8962 2956 8971
+      2957 8969 2959 8973 2961 8974 2964 8969
+      2962 8966 2966 8969
+TIME...MOT...LOC 1525Z 188DEG 14KT 2946 8961 
+
+WATERSPOUT...POSSIBLE
+HAIL...0.00IN
+WIND...>34KTS
+
+$$
+ABS
+
+
+709 
+WWUS54 KLIX 061533
+SVSLIX
+
+Severe Weather Statement
+National Weather Service New Orleans LA
+1033 AM CDT Sun Jun 6 2021
+
+LAC075-061543-
+/O.CAN.KLIX.TO.W.0032.000000T0000Z-210606T1600Z/
+Plaquemines LA-
+1033 AM CDT Sun Jun 6 2021
+
+...THE TORNADO WARNING FOR CENTRAL PLAQUEMINES PARISH IS CANCELLED...
+        
+The storm which prompted the warning has moved out of the area.
+Therefore, the warning has been cancelled.
+
+LAT...LON 2925 8961 2929 8962 2928 8966 2929 8967
+      2931 8963 2933 8964 2929 8969 2930 8971
+      2931 8968 2931 8974 2956 8971 2944 8954
+      2940 8952 2940 8954 2941 8957 2939 8956
+      2939 8947 2924 8953
+TIME...MOT...LOC 1533Z 188DEG 14KT 2945 8961 
+
+$$
+
+ABS
+
+
+985 
+FZUS72 KKEY 061553
+MWSKEY
+
+Marine Weather Statement
+National Weather Service Key West FL
+1153 AM EDT Sun Jun 6 2021
+
+GMZ031-042-052-072-061645-
+1153 AM EDT Sun Jun 6 2021
+
+...THUNDERSTORMS IN THE EASTERN FLORIDA STRAITS APPROACHING BARNES 
+SOUND...
+
+The areas affected include...
+Hawk Channel and Straits of Florida from Ocean Reef to Craig Key out
+60 nm...
+Florida Bay including Barnes Sound, Blackwater Sound, and Buttonwood
+Sound...
+
+At 1151 AM EDT, National Weather Service meteorologists detected a
+thunderstorm, capable of producing wind gusts near 30 knots. This
+thunderstorm was located 7 nm southeast of Spiegel Grove, moving
+northwest at 20 knots.
+
+Locations that will be affected include...
+Mosquito Bank Light, Blackwater Sound, French Ref, Grecian Rocks,
+Barnes Sound, Boggy Key and Key Largo Dry Rocks.
+
+Prepare for thunderstorms with wind gusts near 30 knots, locally
+rough and confused seas, occasional lightning strikes, and
+potentially blinding downpours.
+
+&&
+
+LAT...LON 2492 8003 2483 8020 2522 8052 2521 8050
+      2521 8049 2524 8053 2522 8049 2524 8049
+      2523 8047 2526 8044 2525 8044 2527 8042
+      2526 8042 2530 8039 2528 8036 2528 8033
+      2532 8029 2533 8029 2533 8028
+
+$$
+Williams
+
+

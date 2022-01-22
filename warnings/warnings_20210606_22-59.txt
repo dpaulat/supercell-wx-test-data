@@ -1,0 +1,632 @@
+
+801 
+WUUS55 KBOU 062202
+SVRBOU
+COC087-123-062230-
+/O.NEW.KBOU.SV.W.0060.210606T2202Z-210606T2230Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Denver CO
+402 PM MDT Sun Jun 6 2021
+
+The National Weather Service in Denver Colorado has issued a
+
+* Severe Thunderstorm Warning for...
+  East central Weld County in northeastern Colorado...
+  Northwestern Morgan County in northeastern Colorado...
+
+* Until 430 PM MDT.
+
+* At 401 PM MDT, a severe thunderstorm was located 7 miles southeast
+  of Keota, or 26 miles northwest of Fort Morgan, moving southeast at
+  5 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect damage to roofs, siding, and trees. Hail damage to 
+           vehicles is expected.
+
+* Locations impacted include...
+  New Raymer.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 4056 10415 4074 10401 4067 10376 4045 10381
+      4040 10401
+TIME...MOT...LOC 2201Z 314DEG 6KT 4061 10400 
+
+HAIL...1.00IN
+WIND...60MPH
+ 
+$$
+
+DANIELSON
+
+
+696 
+WUUS55 KBOU 062208
+SVRBOU
+COC123-062245-
+/O.NEW.KBOU.SV.W.0061.210606T2208Z-210606T2245Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Denver CO
+408 PM MDT Sun Jun 6 2021
+
+The National Weather Service in Denver Colorado has issued a
+
+* Severe Thunderstorm Warning for...
+  South central Weld County in northeastern Colorado...
+
+* Until 445 PM MDT.
+
+* At 408 PM MDT, a severe thunderstorm was located 4 miles northeast
+  of Keenesburg, or 24 miles southeast of Greeley, moving southeast
+  at 5 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect damage to roofs, siding, and trees. Hail damage to 
+           vehicles is expected.
+
+* Locations impacted include...
+  Keenesburg, Prospect Valley and Roggen. 
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 4002 10461 4016 10456 4029 10443 4030 10422
+      4002 10438
+TIME...MOT...LOC 2208Z 314DEG 6KT 4015 10446 
+
+HAIL...1.00IN
+WIND...60MPH
+ 
+$$
+
+DANIELSON
+
+
+751 
+FZUS74 KLIX 062210
+MWSLIX
+
+Marine Weather Statement
+National Weather Service New Orleans LA
+510 PM CDT Sun Jun 6 2021
+
+GMZ536-557-062220-
+/O.CAN.KLIX.MA.W.0299.000000T0000Z-210606T2245Z/
+510 PM CDT Sun Jun 6 2021
+
+...THE SPECIAL MARINE WARNING IS CANCELLED...
+
+The affected areas were... 
+Chandeleur Sound...
+Coastal waters from Pascagoula Mississippi to Stake Island out 20
+NM...
+
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
+
+LAT...LON 2974 8891 2980 8915 3014 8901 3004 8870
+TIME...MOT...LOC 2209Z 200DEG 31KT 3011 8887 
+
+$$
+
+LN
+
+
+983 
+WHUS52 KTBW 062217
+SMWTBW
+GMZ830-062245-
+/O.NEW.KTBW.MA.W.0052.210606T2217Z-210606T2245Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Special Marine Warning
+National Weather Service Tampa Bay Area Ruskin FL
+617 PM EDT Sun Jun 6 2021
+
+The National Weather Service in Ruskin has issued a
+
+* Special Marine Warning for...
+  Tampa Bay waters...
+
+* Until 645 PM EDT.
+
+* At 617 PM EDT, a severe thunderstorm capable of producing
+  waterspouts was located over Hillsborough Bay, moving northwest at
+  15 knots.
+
+  HAZARD...Waterspouts and wind gusts 34 knots or greater.
+
+  SOURCE...Radar.
+
+  IMPACT...Waterspouts can quickly form and capsize boats, damage 
+           vessels, and create suddenly higher waves. Make sure all 
+           on board are in a secure location and wearing life 
+           jackets. Expect wind gusts in excess of 34 knots, 
+           suddenly higher waves, frequent lightning, and heavy 
+           downpours. Make sure all on board are wearing life 
+           jackets.
+
+* Locations impacted include...
+  Hillsborough Bay.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
+
+&&
+
+LAT...LON 2779 8234 2779 8242 2781 8247 2793 8253
+      2796 8239 2782 8233
+TIME...MOT...LOC 2217Z 154DEG 17KT 2787 8243 
+
+WATERSPOUT...POSSIBLE
+HAIL...0.00IN
+WIND...>34KTS
+
+$$
+
+TBW
+
+
+556 
+WGUS74 KOUN 062220
+FFSOUN
+
+Flash Flood Statement
+National Weather Service Norman OK
+520 PM CDT Sun Jun 6 2021
+
+OKC109-070045-
+/O.CON.KOUN.FF.W.0026.000000T0000Z-210607T0045Z/
+/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Oklahoma OK-
+520 PM CDT Sun Jun 6 2021
+
+...FLASH FLOOD WARNING REMAINS IN EFFECT UNTIL 745 PM CDT THIS 
+EVENING FOR SOUTH CENTRAL OKLAHOMA COUNTY...
+
+At 520 PM CDT, the Del City Fire Department reported a motorist 
+stranded at the 3500 block of Southeast 27th in the area of Cherry 
+Creek Bridge. Between 2 and 2.5 inches of rain have fallen. Flash 
+flooding is already occurring.
+
+HAZARD...Flash flooding caused by thunderstorms.
+
+SOURCE...Fire department/rescue.
+
+IMPACT...Flooding of small creeks and streams, urban areas,
+         highways, streets and underpasses as well as other
+         drainage and low lying areas.
+
+Some locations that will experience flash flooding include...
+Southeastern Oklahoma City, Midwest City, Del City, Valley Brook and 
+Smith Village.
+
+This includes the following streams and drainages...
+  Crooked Oak Creek and North Canadian River.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Turn around, don't drown when encountering flooded roads. Most flood 
+deaths occur in vehicles.
+
+Please report flooding to your local law enforcement agency when you 
+can do so safely.
+
+A Flash Flood Warning means that flooding is imminent or occurring. 
+If you are in the warned area move to higher ground immediately. 
+Residents living along streams and creeks should take immediate 
+precautions to protect life and property.
+
+&&
+
+LAT...LON 3550 9742 3549 9747 3542 9748 3540 9749
+      3540 9746 3540 9744 3547 9741
+
+FLASH FLOOD...OBSERVED
+
+$$
+
+03
+
+
+314 
+WWUS55 KBOU 062225
+SVSBOU
+
+Severe Weather Statement
+National Weather Service Denver CO
+425 PM MDT Sun Jun 6 2021
+
+COC087-123-062235-
+/O.EXP.KBOU.SV.W.0060.000000T0000Z-210606T2230Z/
+Weld CO-Morgan CO-
+425 PM MDT Sun Jun 6 2021
+
+...THE SEVERE THUNDERSTORM WARNING FOR EAST CENTRAL WELD AND
+NORTHWESTERN MORGAN COUNTIES WILL EXPIRE AT 430 PM MDT...
+                
+The storm which prompted the warning has weakened below severe
+limits, and no longer poses an immediate threat to life or property.
+Therefore, the warning will be allowed to expire.
+
+LAT...LON 4056 10415 4074 10401 4067 10376 4045 10381
+      4040 10401
+TIME...MOT...LOC 2225Z 314DEG 6KT 4058 10397 
+
+$$
+
+DANIELSON
+
+
+001 
+WHUS54 KLIX 062236
+SMWLIX
+GMZ532-536-557-062315-
+/O.NEW.KLIX.MA.W.0301.210606T2236Z-210606T2315Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Special Marine Warning
+National Weather Service New Orleans LA
+536 PM CDT Sun Jun 6 2021
+
+The National Weather Service in New Orleans has issued a
+
+* Special Marine Warning for...
+  Chandeleur Sound...
+  Coastal waters from Pascagoula Mississippi to Stake Island out 20
+  NM...
+  Mississippi Sound...
+
+* Until 615 PM CDT.
+
+* At 536 PM CDT, a severe thunderstorm capable of producing
+  waterspouts was located near Horn Island, moving north at 35 knots.
+
+  HAZARD...Waterspouts and wind gusts to 40 knots.
+
+  SOURCE...Radar.
+
+  IMPACT...Waterspouts can quickly form and capsize boats...damage 
+           vessels and oil rigs...and create suddenly higher waves. 
+           Make sure all on board are in a secure location and 
+           wearing life jackets. Expect wind gusts in excess of 34 
+           knots and suddenly higher waves. Boats could sustain 
+           damage or capsize. Make sure all on board are wearing 
+           life jackets. Return to safe harbor if possible.
+
+* Locations impacted include...
+  Horn Island and Pascagoula. 
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
+
+&&
+
+LAT...LON 3034 8874 3034 8870 3038 8861 3037 8858
+      3034 8857 3034 8851 3032 8849 3033 8845
+      3036 8844 3035 8840 2991 8844 3002 8890
+      3040 8882
+TIME...MOT...LOC 2236Z 202DEG 34KT 3015 8868 
+
+WATERSPOUT...POSSIBLE
+HAIL...0.00IN
+WIND...40KTS
+
+$$
+
+LN
+
+
+941 
+FZUS72 KTBW 062237
+MWSTBW
+
+Marine Weather Statement
+National Weather Service Tampa Bay Area Ruskin FL
+637 PM EDT Sun Jun 6 2021
+
+GMZ830-062315-
+637 PM EDT Sun Jun 6 2021
+
+...A STRONG THUNDERSTORM OVER THE WATERS...
+
+The areas affected include...
+  Tampa Bay waters...
+
+At 637 PM EDT, Doppler radar indicated a strong thunderstorm, capable
+of producing winds to around 30 knots. This thunderstorm was located
+over Gandy Bridge, moving northwest at 20 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until this storm passes.
+
+&&
+
+LAT...LON 2776 8261 2797 8277 2801 8275 2806 8264
+      2798 8250 2798 8248 2784 8243
+
+$$
+
+TBW
+
+
+375 
+WGUS72 KGSP 062239
+FFSGSP
+
+Flash Flood Statement
+National Weather Service Greenville-Spartanburg SC
+639 PM EDT Sun Jun 6 2021
+
+NCC119-070015-
+/O.CON.KGSP.FF.W.0004.000000T0000Z-210607T0015Z/
+/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Mecklenburg NC-
+639 PM EDT Sun Jun 6 2021
+
+...FLASH FLOOD WARNING REMAINS IN EFFECT UNTIL 815 PM EDT THIS 
+EVENING FOR SOUTH CENTRAL MECKLENBURG COUNTY...
+
+At 639 PM EDT, Doppler radar and automated rain gauges indicated 
+showers slowly tapering off across the Flash Flood Warning area. 
+Radar and rain gauges indicated that some 2 to 4 inches of rain fell 
+in the past three hours. Additional rainfall of one-half inch is 
+expected in the area before the rain ends. Flash flooding is ongoing 
+in the McAlpine Creek, McMullen Creek, and Little Sugar Creek areas.
+
+HAZARD...Flash flooding caused by thunderstorms.
+
+SOURCE...Radar and automated gauges.
+
+IMPACT...Flash flooding of small creeks and streams, urban areas,
+         highways, streets and underpasses as well as other poor
+         drainage and low-lying areas.
+
+Some locations that will experience flash flooding include...
+  Central Charlotte, South Charlotte, East Charlotte, Matthews, Mint 
+  Hill, Southpark Mall, The Arboretum, The Plaza and Freedom Park.
+
+Flooding along McMullen Creek will impact Sharon View Road and 
+locations near Rustic lane. Flooding from McMullen Creek above 
+Lincrest Place will continue. Freedom Park walkways will flood along 
+Little Sugar Creek.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Turn around, don't drown when encountering flooded roads. Most flood 
+deaths occur in vehicles.
+
+&&
+
+LAT...LON 3521 8071 3522 8071 3521 8070 3518 8068
+      3514 8069 3511 8071 3507 8076 3507 8079
+      3508 8082 3510 8085 3514 8087 3517 8086
+      3521 8084 3522 8081 3523 8076
+
+FLASH FLOOD...RADAR AND GAUGE INDICATED
+EXPECTED RAINFALL...0.5-1 INCH IN 1 HOUR
+
+$$
+
+HG
+
+
+500 
+WWUS55 KBOU 062241
+SVSBOU
+
+Severe Weather Statement
+National Weather Service Denver CO
+441 PM MDT Sun Jun 6 2021
+
+COC123-062251-
+/O.EXP.KBOU.SV.W.0061.000000T0000Z-210606T2245Z/
+Weld CO-
+441 PM MDT Sun Jun 6 2021
+
+...THE SEVERE THUNDERSTORM WARNING FOR SOUTH CENTRAL WELD COUNTY WILL
+EXPIRE AT 445 PM MDT...
+        
+The storm which prompted the warning has moved out of the area.
+Therefore, the warning will be allowed to expire.
+
+LAT...LON 4002 10461 4016 10456 4029 10443 4030 10422
+      4002 10438
+TIME...MOT...LOC 2241Z 314DEG 6KT 4011 10441 
+
+$$
+
+DANIELSON
+
+
+876 
+FZUS74 KLIX 062251
+MWSLIX
+
+Marine Weather Statement
+National Weather Service New Orleans LA
+551 PM CDT Sun Jun 6 2021
+
+GMZ550-062301-
+/O.CAN.KLIX.MA.W.0300.000000T0000Z-210606T2315Z/
+551 PM CDT Sun Jun 6 2021
+
+...THE SPECIAL MARINE WARNING IS CANCELLED...
+
+The affected areas were...
+Coastal Waters from Port Fourchon LA to Lower Atchafalaya River LA
+out 20 nm...
+
+The thunderstorms have moved out of the warned area and no longer 
+pose a significant threat to boaters.
+
+LAT...LON 2839 9054 2923 8953 2924 8950 2914 8942
+      2915 8940 2917 8942 2918 8941 2915 8936
+      2916 8936 2909 8921 2908 8923 2905 8919
+      2896 8927 2807 9043
+TIME...MOT...LOC 2251Z 034DEG 12KT 2887 8971 2832 9029 
+
+$$
+
+GMZ552-555-570-572-062315-
+/O.CON.KLIX.MA.W.0300.000000T0000Z-210606T2315Z/
+551 PM CDT Sun Jun 6 2021
+
+...A SPECIAL MARINE WARNING REMAINS IN EFFECT UNTIL 615 PM CDT...
+
+For the following areas...
+Coastal Waters from Boothville LA to Southwest Pass of the
+Mississippi River out 20 nm...
+Coastal waters from Port Fourchon Louisiana to Lower Atchafalaya
+River LA from 20 to 60 NM...
+Coastal waters from Southwest Pass of the Mississippi River to Port
+Fourchon Louisiana from 20 to 60 NM...
+Coastal waters from the Southwest Pass of the Mississippi River to
+Port Fourchon Louisiana out 20 NM...
+
+At 551 PM CDT, strong thunderstorms were located along a line
+extending from 16 nm east of Louisiana Offshore Oil Port to 45 nm
+south of Timbalier Island, moving north northwest at 10 knots.
+
+HAZARD...Wind gusts to 40 knots.
+
+SOURCE...Radar indicated.
+
+IMPACT...Expect wind gusts in excess of 34 knots and suddenly higher 
+         waves. Boats could sustain damage or capsize. Make sure all 
+         on board are wearing life jackets. Return to safe harbor if 
+         possible.
+
+Locations impacted include...
+Southwest Pass Of the Mississippi River.
+
+LAT...LON 2839 9054 2923 8953 2924 8950 2914 8942
+      2915 8940 2917 8942 2918 8941 2915 8936
+      2916 8936 2909 8921 2908 8923 2905 8919
+      2896 8927 2807 9043
+TIME...MOT...LOC 2251Z 034DEG 12KT 2887 8971 2832 9029 
+
+HAIL...0.00IN
+WIND...40KTS
+
+$$
+
+LN
+
+
+441 
+WGUS74 KJAN 062257
+FFSJAN
+
+Flash Flood Statement
+National Weather Service Jackson MS
+557 PM CDT Sun Jun 6 2021
+
+MSC067-062307-
+/O.EXP.KJAN.FF.W.0028.000000T0000Z-210606T2300Z/
+/00000.0.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Jones MS-
+557 PM CDT Sun Jun 6 2021
+
+...FLASH FLOOD WARNING WILL EXPIRE AT 6 PM CDT THIS EVENING FOR 
+EASTERN JONES COUNTY...
+
+Flooding is no longer expected to pose a threat. Please continue to 
+heed remaining road closures.
+
+A Flash Flood Watch remains in effect until 700 PM CDT for portions 
+of southern and eastern Mississippi.
+
+LAT...LON 3172 8923 3182 8901 3182 8894 3143 8894
+      3143 8915 3164 8919
+
+$$
+
+NF
+
+
+173 
+WHUS54 KMOB 062259
+SMWMOB
+GMZ631-632-650-070000-
+/O.NEW.KMOB.MA.W.0141.210606T2259Z-210607T0000Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Special Marine Warning
+National Weather Service Mobile AL
+559 PM CDT Sun Jun 6 2021
+
+The National Weather Service in Mobile has issued a
+
+* Special Marine Warning for...
+  Coastal waters from Pensacola FL to Pascagoula MS out 20 NM...
+  Mississippi Sound...
+  South Mobile Bay...
+
+* Until 700 PM CDT.
+
+* At 558 PM CDT, strong thunderstorms capable of producing
+  waterspouts were located along a line extending from near Horn
+  Island to near Petit Bois Pass, moving northeast at 25 knots.
+
+  HAZARD...Waterspouts and wind gusts 34 knots or greater.
+
+  SOURCE...Radar.
+
+  IMPACT...Waterspouts can easily overturn boats and create locally 
+           hazardous seas. Small craft could be damaged in briefly 
+           higher winds and suddenly higher waves.
+
+* Locations impacted include...
+  Central Dauphin Island, Dauphin Island Bridge, Fort Gaines, Western
+  Dauphin Island, Petit Bois Pass, Mississippi Sound East Of
+  Pascagoula, Heron Bay, Alabama Port and Portersville Bay.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
+
+&&
+
+LAT...LON 3038 8838 3039 8838 3041 8835 3039 8831
+      3037 8831 3039 8829 3036 8821 3037 8819
+      3032 8819 3033 8816 3034 8815 3031 8814
+      3035 8814 3034 8813 3039 8810 3027 8801
+      3010 8835 3034 8840 3035 8839 3038 8841
+TIME...MOT...LOC 2258Z 228DEG 26KT 3029 8860 3023 8848 3007 8847 
+
+WATERSPOUT...POSSIBLE
+HAIL...0.00IN
+WIND...>34KTS
+
+$$
+
+
