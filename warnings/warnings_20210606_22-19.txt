@@ -1,0 +1,191 @@
+
+801 
+WUUS55 KBOU 062202
+SVRBOU
+COC087-123-062230-
+/O.NEW.KBOU.SV.W.0060.210606T2202Z-210606T2230Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Denver CO
+402 PM MDT Sun Jun 6 2021
+
+The National Weather Service in Denver Colorado has issued a
+
+* Severe Thunderstorm Warning for...
+  East central Weld County in northeastern Colorado...
+  Northwestern Morgan County in northeastern Colorado...
+
+* Until 430 PM MDT.
+
+* At 401 PM MDT, a severe thunderstorm was located 7 miles southeast
+  of Keota, or 26 miles northwest of Fort Morgan, moving southeast at
+  5 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect damage to roofs, siding, and trees. Hail damage to 
+           vehicles is expected.
+
+* Locations impacted include...
+  New Raymer.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 4056 10415 4074 10401 4067 10376 4045 10381
+      4040 10401
+TIME...MOT...LOC 2201Z 314DEG 6KT 4061 10400 
+
+HAIL...1.00IN
+WIND...60MPH
+ 
+$$
+
+DANIELSON
+
+
+696 
+WUUS55 KBOU 062208
+SVRBOU
+COC123-062245-
+/O.NEW.KBOU.SV.W.0061.210606T2208Z-210606T2245Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Warning
+National Weather Service Denver CO
+408 PM MDT Sun Jun 6 2021
+
+The National Weather Service in Denver Colorado has issued a
+
+* Severe Thunderstorm Warning for...
+  South central Weld County in northeastern Colorado...
+
+* Until 445 PM MDT.
+
+* At 408 PM MDT, a severe thunderstorm was located 4 miles northeast
+  of Keenesburg, or 24 miles southeast of Greeley, moving southeast
+  at 5 mph.
+
+  HAZARD...60 mph wind gusts and quarter size hail.
+
+  SOURCE...Radar indicated.
+
+  IMPACT...Expect damage to roofs, siding, and trees. Hail damage to 
+           vehicles is expected.
+
+* Locations impacted include...
+  Keenesburg, Prospect Valley and Roggen. 
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+For your protection move to an interior room on the lowest floor of a
+building.
+
+&&
+
+LAT...LON 4002 10461 4016 10456 4029 10443 4030 10422
+      4002 10438
+TIME...MOT...LOC 2208Z 314DEG 6KT 4015 10446 
+
+HAIL...1.00IN
+WIND...60MPH
+ 
+$$
+
+DANIELSON
+
+
+751 
+FZUS74 KLIX 062210
+MWSLIX
+
+Marine Weather Statement
+National Weather Service New Orleans LA
+510 PM CDT Sun Jun 6 2021
+
+GMZ536-557-062220-
+/O.CAN.KLIX.MA.W.0299.000000T0000Z-210606T2245Z/
+510 PM CDT Sun Jun 6 2021
+
+...THE SPECIAL MARINE WARNING IS CANCELLED...
+
+The affected areas were... 
+Chandeleur Sound...
+Coastal waters from Pascagoula Mississippi to Stake Island out 20
+NM...
+
+The thunderstorm has weakened and no longer poses a significant
+threat to boaters.
+
+LAT...LON 2974 8891 2980 8915 3014 8901 3004 8870
+TIME...MOT...LOC 2209Z 200DEG 31KT 3011 8887 
+
+$$
+
+LN
+
+
+983 
+WHUS52 KTBW 062217
+SMWTBW
+GMZ830-062245-
+/O.NEW.KTBW.MA.W.0052.210606T2217Z-210606T2245Z/
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+Special Marine Warning
+National Weather Service Tampa Bay Area Ruskin FL
+617 PM EDT Sun Jun 6 2021
+
+The National Weather Service in Ruskin has issued a
+
+* Special Marine Warning for...
+  Tampa Bay waters...
+
+* Until 645 PM EDT.
+
+* At 617 PM EDT, a severe thunderstorm capable of producing
+  waterspouts was located over Hillsborough Bay, moving northwest at
+  15 knots.
+
+  HAZARD...Waterspouts and wind gusts 34 knots or greater.
+
+  SOURCE...Radar.
+
+  IMPACT...Waterspouts can quickly form and capsize boats, damage 
+           vessels, and create suddenly higher waves. Make sure all 
+           on board are in a secure location and wearing life 
+           jackets. Expect wind gusts in excess of 34 knots, 
+           suddenly higher waves, frequent lightning, and heavy 
+           downpours. Make sure all on board are wearing life 
+           jackets.
+
+* Locations impacted include...
+  Hillsborough Bay.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Move to safe harbor immediately as gusty winds and high waves are
+expected.
+
+&&
+
+LAT...LON 2779 8234 2779 8242 2781 8247 2793 8253
+      2796 8239 2782 8233
+TIME...MOT...LOC 2217Z 154DEG 17KT 2787 8243 
+
+WATERSPOUT...POSSIBLE
+HAIL...0.00IN
+WIND...>34KTS
+
+$$
+
+TBW
+
+
