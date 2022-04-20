@@ -2,7 +2,8 @@
     "general" : {
         "default_radar_site" : "KLSX",
         "grid_width" : 3,
-        "grid_height" : 3
+        "grid_height" : 3,
+        "mapbox_api_key" : "?"
     },
     "palette" : {
         "BR" : "",

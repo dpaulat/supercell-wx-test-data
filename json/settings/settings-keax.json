@@ -2,7 +2,8 @@
     "general" : {
         "default_radar_site" : "KEAX",
         "grid_width" : 1,
-        "grid_height" : 1
+        "grid_height" : 1,
+        "mapbox_api_key" : "?"
     },
     "palette" : {
         "BR" : "",

@@ -2,7 +2,8 @@
     "general" : {
         "default_radar_site" : 1
         "grid_width" : "",
-        "grid_height" : ""
+        "grid_height" : "",
+        "mapbox_api_key" : 1
     },
     "palette" : {
         "BR" : 1,
