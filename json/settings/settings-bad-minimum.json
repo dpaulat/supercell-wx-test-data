@@ -5,6 +5,28 @@
         "grid_height" : 0,
         "mapbox_api_key" : "?"
     },
+    "maps" : [
+        {
+            "radar_site" : "KLSX",
+            "radar_product_group" : "L3",
+            "radar_product" : "N0B"
+        },
+        {
+            "radar_site" : "KLSX",
+            "radar_product_group" : "L3",
+            "radar_product" : "N0G"
+        },
+        {
+            "radar_site" : "KLSX",
+            "radar_product_group" : "L3",
+            "radar_product" : "N0C"
+        },
+        {
+            "radar_site" : "KLSX",
+            "radar_product_group" : "L3",
+            "radar_product" : "N0X"
+        }
+    ],
     "palette" : {
         "BR" : "",
         "BV" : "",

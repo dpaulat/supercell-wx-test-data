@@ -5,6 +5,28 @@
         "grid_height" : "",
         "mapbox_api_key" : 1
     },
+    "maps" : [
+        {
+            "radar_site" : 1,
+            "radar_product_group" : 1,
+            "radar_product" : 1
+        },
+        {
+            "radar_site" : 1,
+            "radar_product_group" : 1,
+            "radar_product" : 1
+        },
+        {
+            "radar_site" : 1,
+            "radar_product_group" : 1,
+            "radar_product" : 1
+        },
+        {
+            "radar_site" : 1,
+            "radar_product_group" : 1,
+            "radar_product" : 1
+        }
+    ],
     "palette" : {
         "BR" : 1,
         "BV" : 1,

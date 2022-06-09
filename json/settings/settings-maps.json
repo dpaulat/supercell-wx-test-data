@@ -12,19 +12,19 @@
             "radar_product" : "N0B"
         },
         {
-            "radar_site" : "KLSX",
+            "radar_site" : "KEAX",
             "radar_product_group" : "L3",
             "radar_product" : "N0G"
         },
         {
-            "radar_site" : "KLSX",
+            "radar_site" : "KEAX",
             "radar_product_group" : "L3",
-            "radar_product" : "N0C"
+            "radar_product" : "XXX"
         },
         {
             "radar_site" : "KLSX",
-            "radar_product_group" : "L3",
-            "radar_product" : "N0X"
+            "radar_product_group" : "L2",
+            "radar_product" : "REF"
         }
     ],
     "palette" : {
