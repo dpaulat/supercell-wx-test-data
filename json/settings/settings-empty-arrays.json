@@ -1,0 +1,51 @@
+{
+    "general" : {
+        "debug_enabled" : false,
+        "default_radar_site" : "KLSX",
+        "font_sizes" : [],
+        "grid_width" : 1,
+        "grid_height" : 1,
+        "mapbox_api_key" : "?"
+    },
+    "maps" : [
+        {
+            "radar_site" : "KLSX",
+            "radar_product_group" : "L3",
+            "radar_product" : "N0B"
+        },
+        {
+            "radar_site" : "KLSX",
+            "radar_product_group" : "L3",
+            "radar_product" : "N0G"
+        },
+        {
+            "radar_site" : "KLSX",
+            "radar_product_group" : "L3",
+            "radar_product" : "N0C"
+        },
+        {
+            "radar_site" : "KLSX",
+            "radar_product_group" : "L3",
+            "radar_product" : "N0X"
+        }
+    ],
+    "palette" : {
+        "BR" : "",
+        "BV" : "",
+        "SW" : "",
+        "ZDR" : "",
+        "PHI2" : "",
+        "CC" : "",
+        "DOD" : "",
+        "DSD" : "",
+        "ET" : "",
+        "OHP" : "",
+        "OHPIN" : "",
+        "PHI3" : "",
+        "SRV" : "",
+        "STP" : "",
+        "STPIN" : "",
+        "VIL" : "",
+        "???" : ""
+    }
+}
