@@ -2,9 +2,7 @@
     "general" : {
         "debug_enabled" : false,
         "default_radar_site" : 1,
-        "font_sizes" : [
-            ""
-        ],
+        "font_sizes" : "",
         "grid_width" : "",
         "grid_height" : "",
         "mapbox_api_key" : 1

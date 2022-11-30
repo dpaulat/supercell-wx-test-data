@@ -1,6 +1,12 @@
 {
     "general" : {
+        "debug_enabled" : false,
         "default_radar_site" : "KLSX",
+        "font_sizes" : [
+            16,
+            0,
+            12
+        ],
         "grid_width" : 0,
         "grid_height" : 0,
         "mapbox_api_key" : "?"
