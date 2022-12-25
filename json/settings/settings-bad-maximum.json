@@ -50,6 +50,16 @@
         "STP" : "",
         "STPIN" : "",
         "VIL" : "",
-        "???" : ""
+        "???" : "",
+        "FF-active" : "#ffffffff",
+        "FF-inactive" : "#ffffffff",
+        "MA-active" : "#ffffffff",
+        "MA-inactive" : "#ffffffff",
+        "SQ-active" : "#ffffffff",
+        "SQ-inactive" : "#ffffffff",
+        "SV-active" : "#ffffffff",
+        "SV-inactive" : "#ffffffff",
+        "TO-active" : "#ffffffff",
+        "TO-inactive" : "#ffffffff"
     }
 }
