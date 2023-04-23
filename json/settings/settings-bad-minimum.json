@@ -9,7 +9,8 @@
         ],
         "grid_width" : 0,
         "grid_height" : 0,
-        "mapbox_api_key" : "?"
+        "mapbox_api_key" : "?",
+        "update_notifications" : true
     },
     "maps" : [
         {

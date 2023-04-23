@@ -5,7 +5,8 @@
         "font_sizes" : [],
         "grid_width" : 1,
         "grid_height" : 1,
-        "mapbox_api_key" : "?"
+        "mapbox_api_key" : "?",
+        "update_notifications" : true
     },
     "maps" : [
         {

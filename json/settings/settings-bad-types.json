@@ -1,13 +1,14 @@
 {
     "general" : {
-        "debug_enabled" : false,
+        "debug_enabled" : "",
         "default_radar_site" : 1,
         "font_sizes" : [
             ""
         ],
         "grid_width" : "",
         "grid_height" : "",
-        "mapbox_api_key" : 1
+        "mapbox_api_key" : 1,
+        "update_notifications" : ""
     },
     "maps" : [
         {
