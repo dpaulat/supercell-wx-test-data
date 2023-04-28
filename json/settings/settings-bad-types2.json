@@ -5,7 +5,9 @@
         "font_sizes" : "",
         "grid_width" : "",
         "grid_height" : "",
+        "map_provider" : 1,
         "mapbox_api_key" : 1,
+        "maptiler_api_key" : 1,
         "update_notifications" : ""
     },
     "maps" : [

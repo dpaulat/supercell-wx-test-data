@@ -9,7 +9,9 @@
         ],
         "grid_width" : 0,
         "grid_height" : 0,
+        "map_provider" : "maptiler",
         "mapbox_api_key" : "?",
+        "maptiler_api_key" : "?",
         "update_notifications" : true
     },
     "maps" : [
