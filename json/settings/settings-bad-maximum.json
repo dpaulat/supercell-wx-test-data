@@ -1,6 +1,7 @@
 {
     "general" : {
         "debug_enabled" : false,
+        "default_alert_action" : "go",
         "default_radar_site" : "KLSX",
         "font_sizes" : [
             16,

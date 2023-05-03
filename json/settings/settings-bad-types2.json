@@ -1,6 +1,7 @@
 {
     "general" : {
         "debug_enabled" : "",
+        "default_alert_action" : 1,
         "default_radar_site" : 1,
         "font_sizes" : "",
         "grid_width" : "",
