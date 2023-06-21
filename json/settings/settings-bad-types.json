@@ -18,21 +18,25 @@
     },
     "maps" : [
         {
+            "map_style" : 1,
             "radar_site" : 1,
             "radar_product_group" : 1,
             "radar_product" : 1
         },
         {
+            "map_style" : 1,
             "radar_site" : 1,
             "radar_product_group" : 1,
             "radar_product" : 1
         },
         {
+            "map_style" : 1,
             "radar_site" : 1,
             "radar_product_group" : 1,
             "radar_product" : 1
         },
         {
+            "map_style" : 1,
             "radar_site" : 1,
             "radar_product_group" : 1,
             "radar_product" : 1

@@ -18,21 +18,25 @@
     },
     "maps" : [
         {
+            "map_style" : "?",
             "radar_site" : "KLSX",
             "radar_product_group" : "L3",
             "radar_product" : "N0B"
         },
         {
+            "map_style" : "?",
             "radar_site" : "KEAX",
             "radar_product_group" : "L3",
             "radar_product" : "N0G"
         },
         {
+            "map_style" : "?",
             "radar_site" : "KEAX",
             "radar_product_group" : "L3",
             "radar_product" : "XXX"
         },
         {
+            "map_style" : "?",
             "radar_site" : "KLSX",
             "radar_product_group" : "L2",
             "radar_product" : "REF"
