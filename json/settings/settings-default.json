@@ -70,5 +70,12 @@
         "SV-inactive" : "#ff7f7f00",
         "TO-active" : "#ffff0000",
         "TO-inactive" : "#ff7f0000"
+    },
+    "ui" : {
+        "level2_products_expanded" : false,
+        "level2_settings_expanded" : true,
+        "level3_products_expanded" : true,
+        "map_settings_expanded" : true,
+        "timeline_expanded" : true
     }
 }
