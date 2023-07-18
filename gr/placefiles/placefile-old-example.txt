@@ -1,0 +1,25 @@
+;
+; Show some radar sites at all zoom levels in white
+;
+
+Threshold: 999
+Color: 255 255 255
+
+Place: 33.172, -86.770, KBMX
+Place: 31.460, -85.459, KEOX
+Place: 34.931, -86.084, KHTX
+Place: 32.537, -85.790, KMXX
+Place: 30.679, -88.240, KMOB
+
+;
+; And some METAR stations at 100 miles in green
+;
+
+Threshold: 100
+Color: 0 255 0
+
+Place: 35.93,  -95.00, KTQH
+Place: 35.94,  -89.83, KHKA
+Place: 35.95, -112.15, KGCN
+Place: 35.95,  -85.08, KCSV
+Place: 35.97,  -89.95, KBYH
