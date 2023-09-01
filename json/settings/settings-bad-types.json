@@ -71,6 +71,9 @@
         "TO-active" : 1,
         "TO-inactive" : 1
     },
+    "text" : {
+        "hover_text_wrap" : ""
+    },
     "ui" : {
         "level2_products_expanded" : "",
         "level2_settings_expanded" : "",
