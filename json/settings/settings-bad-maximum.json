@@ -74,7 +74,8 @@
         "TO-inactive" : "#ffffffff"
     },
     "text" : {
-        "hover_text_wrap" : 1000
+        "hover_text_wrap" : 1000,
+        "tooltip_method" : "imgui"
     },
     "ui" : {
         "level2_products_expanded" : false,

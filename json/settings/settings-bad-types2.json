@@ -70,7 +70,8 @@
         "TO-inactive" : 1
     },
     "text" : {
-        "hover_text_wrap" : ""
+        "hover_text_wrap" : "",
+        "tooltip_method" : 1
     },
     "ui" : {
         "level2_products_expanded" : "",
