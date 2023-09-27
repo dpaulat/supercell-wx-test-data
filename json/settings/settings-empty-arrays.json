@@ -70,6 +70,8 @@
         "TO-inactive" : "#ff7f0000"
     },
     "text" : {
+        "fonts" : {
+        },
         "hover_text_wrap" : 80,
         "tooltip_method" : "imgui"
     },

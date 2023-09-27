@@ -74,6 +74,18 @@
         "TO-inactive" : "#00000000"
     },
     "text" : {
+        "fonts" : {
+            "Default" : {
+                "font_family" : "",
+                "font_style" : "",
+                "font_point_size" : 5.9
+            },
+            "Tooltip" : {
+                "font_family" : "",
+                "font_style" : "",
+                "font_point_size" : 5.9
+            }
+        },
         "hover_text_wrap" : -1,
         "tooltip_method" : ""
     },

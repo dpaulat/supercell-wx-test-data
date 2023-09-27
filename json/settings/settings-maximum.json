@@ -74,6 +74,18 @@
         "TO-inactive" : "#ffffffff"
     },
     "text" : {
+        "fonts" : {
+            "Default" : {
+                "font_family" : "Alte DIN 1451 Mittelschrift",
+                "font_style" : "Regular",
+                "font_point_size" : 72
+            },
+            "Tooltip" : {
+                "font_family" : "Inconsolata",
+                "font_style" : "Regular",
+                "font_point_size" : 72
+            }
+        },
         "hover_text_wrap" : 999,
         "tooltip_method" : "imgui"
     },
