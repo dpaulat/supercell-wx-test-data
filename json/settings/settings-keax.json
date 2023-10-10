@@ -1,5 +1,6 @@
 {
     "general" : {
+        "anti_aliasing_enabled" : true,
         "debug_enabled" : false,
         "default_alert_action" : "go",
         "default_radar_site" : "KEAX",

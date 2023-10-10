@@ -1,5 +1,6 @@
 {
     "general" : {
+        "anti_aliasing_enabled" : "",
         "debug_enabled" : "",
         "default_alert_action" : 1,
         "default_radar_site" : 1,
