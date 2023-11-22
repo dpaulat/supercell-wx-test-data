@@ -13,6 +13,7 @@
         "map_provider" : 1,
         "mapbox_api_key" : 1,
         "maptiler_api_key" : 1,
+        "track_location" : "",
         "update_notifications" : ""
     },
     "maps" : [
