@@ -17,6 +17,7 @@
         "map_provider" : "maptiler",
         "mapbox_api_key" : "?",
         "maptiler_api_key" : "?",
+        "theme" : "default",
         "track_location" : false,
         "update_notifications" : true
     },
