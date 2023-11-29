@@ -21,6 +21,15 @@
         "track_location" : false,
         "update_notifications" : true
     },
+    "audio" : {
+        "alert_location_method" : "fixed",
+        "alert_latitude" : -90,
+        "alert_longitude" : -180,
+        "FF_enabled" : false,
+        "SV_enabled" : false,
+        "SQ_enabled" : false,
+        "TO_enabled" : false
+    },
     "maps" : [
         {
             "map_style" : "?",
