@@ -20,6 +20,7 @@
         "update_notifications" : ""
     },
     "audio" : {
+        "alert_sound_file" : 1,
         "alert_location_method" : 1,
         "alert_latitude" : "",
         "alert_longitude" : "",

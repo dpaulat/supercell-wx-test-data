@@ -20,6 +20,7 @@
         "update_notifications" : true
     },
     "audio" : {
+        "alert_sound_file" : ":/res/audio/wikimedia/Emergency_Alert_System_Attention_Signal_20s.ogg",
         "alert_location_method" : "fixed",
         "alert_latitude" : 0,
         "alert_longitude" : 0,
