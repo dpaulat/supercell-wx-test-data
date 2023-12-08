@@ -26,6 +26,7 @@
         "alert_location_method" : "fixed",
         "alert_latitude" : 90.1,
         "alert_longitude" : 180.1,
+        "alert_county" : "",
         "FF_enabled" : false,
         "SV_enabled" : false,
         "SQ_enabled" : false,
