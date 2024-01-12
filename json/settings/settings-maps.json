@@ -67,6 +67,7 @@
         "DOD" : ":/res/palettes/wct/DOD_DSD.pal",
         "DSD" : ":/res/palettes/wct/DOD_DSD.pal",
         "ET" : ":/res/palettes/wct/ET.pal",
+        "HC" : ":/res/palettes/wct/HC.pal",
         "STP" : ":/res/palettes/wct/STP.pal",
         "OHP" : ":/res/palettes/wct/OHP.pal",
         "STPIN" : "",
