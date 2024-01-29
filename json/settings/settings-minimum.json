@@ -104,6 +104,7 @@
         },
         "hover_text_wrap" : 0,
         "placefile_text_drop_shadow_enabled" : true,
+        "radar_site_hover_text_enabled" : true,
         "tooltip_method" : "imgui"
     },
     "ui" : {
