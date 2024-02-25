@@ -89,6 +89,10 @@
         "TO-active" : "#ffffffff",
         "TO-inactive" : "#ffffffff"
     },
+    "product" : {
+        "sti_forecast_enabled" : true,
+        "sti_past_enabled" : true
+    },
     "text" : {
         "fonts" : {
             "Default" : {
