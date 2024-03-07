@@ -104,6 +104,11 @@
                 "font_family" : "",
                 "font_style" : "",
                 "font_point_size" : 5.9
+            },
+            "Attribution" : {
+                "font_family" : "Roboto Flex",
+                "font_style" : "Regular",
+                "font_point_size" : 5.9
             }
         },
         "hover_text_wrap" : -1,

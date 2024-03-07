@@ -102,6 +102,11 @@
                 "font_family" : 1,
                 "font_style" : 1,
                 "font_point_size" : ""
+            },
+            "Attribution" : {
+                "font_family" : 1,
+                "font_style" : 1,
+                "font_point_size" : ""
             }
         },
         "hover_text_wrap" : "",

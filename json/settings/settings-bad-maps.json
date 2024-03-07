@@ -102,6 +102,11 @@
                 "font_family" : "Inconsolata",
                 "font_style" : "Regular",
                 "font_point_size" : 10.5
+            },
+            "Attribution" : {
+                "font_family" : "Roboto Flex",
+                "font_style" : "Regular",
+                "font_point_size" : 9
             }
         },
         "hover_text_wrap" : 80,
