@@ -1,9 +1,11 @@
 {
     "general" : {
         "anti_aliasing_enabled" : true,
+        "clock_format" : "24-hour",
         "debug_enabled" : false,
         "default_alert_action" : "go",
         "default_radar_site" : "KEAX",
+        "default_time_zone" : "radar",
         "font_sizes" : [
             16
         ],

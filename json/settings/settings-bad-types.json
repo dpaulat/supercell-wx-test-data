@@ -1,9 +1,11 @@
 {
     "general" : {
         "anti_aliasing_enabled" : "",
+        "clock_format" : 1,
         "debug_enabled" : "",
         "default_alert_action" : 1,
         "default_radar_site" : 1,
+        "default_time_zone" : 1,
         "font_sizes" : [
             ""
         ],
