@@ -33,6 +33,21 @@
         "SQ_enabled" : "",
         "TO_enabled" : ""
     },
+    "hotkeys" : {
+        "change_map_style" : 1,
+        "copy_cursor_coordinates" : 1,
+        "copy_map_coordinates" : 1,
+        "map_pan_up" : 1,
+        "map_pan_down" : 1,
+        "map_pan_left" : 1,
+        "map_pan_right" : 1,
+        "map_rotate_clockwise" : 1,
+        "map_rotate_counterclockwise" : 1,
+        "map_zoom_in" : 1,
+        "map_zoom_out" : 1,
+        "product_tilt_decrease" : 1,
+        "product_tilt_increase" : 1
+    },
     "maps" : [
         {
             "map_style" : 1,

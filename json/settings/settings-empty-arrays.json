@@ -33,6 +33,21 @@
         "SQ_enabled" : false,
         "TO_enabled" : false
     },
+    "hotkeys" : {
+        "change_map_style" : "Z",
+        "copy_cursor_coordinates" : "Ctrl+C",
+        "copy_map_coordinates" : "Ctrl+Shift+C",
+        "map_pan_up" : "W",
+        "map_pan_down" : "S",
+        "map_pan_left" : "A",
+        "map_pan_right" : "D",
+        "map_rotate_clockwise" : "E",
+        "map_rotate_counterclockwise" : "Q",
+        "map_zoom_in" : "=",
+        "map_zoom_out" : "-",
+        "product_tilt_decrease" : "[",
+        "product_tilt_increase" : "]"
+    },
     "maps" : [
         {
             "map_style" : "?",
