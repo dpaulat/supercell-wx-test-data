@@ -46,7 +46,12 @@
         "map_zoom_in" : "=",
         "map_zoom_out" : "-",
         "product_tilt_decrease" : "[",
-        "product_tilt_increase" : "]"
+        "product_tilt_increase" : "]",
+        "timeline_step_begin" : "Ctrl+Left",
+        "timeline_step_back" : "Left",
+        "timeline_play" : "Space",
+        "timeline_step_next" : "Right",
+        "timeline_step_end" : "Ctrl+Right"
     },
     "maps" : [
         {
