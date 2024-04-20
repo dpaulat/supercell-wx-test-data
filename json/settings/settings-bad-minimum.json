@@ -20,6 +20,7 @@
         "mapbox_api_key" : "?",
         "maptiler_api_key" : "?",
         "show_map_attribution" : true,
+        "show_map_center" : false,
         "show_map_logo" : true,
         "theme" : "default",
         "track_location" : false,
