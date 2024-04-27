@@ -144,5 +144,10 @@
         "level3_products_expanded" : "",
         "map_settings_expanded" : "",
         "timeline_expanded" : ""
+    },
+    "unit" : {
+        "accumulation_units" : 1,
+        "echo_tops_units" : 1,
+        "speed_units" : 1
     }
 }

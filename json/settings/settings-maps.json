@@ -146,5 +146,10 @@
         "level3_products_expanded" : true,
         "map_settings_expanded" : true,
         "timeline_expanded" : true
+    },
+    "unit" : {
+        "accumulation_units" : "inches",
+        "echo_tops_units" : "kilofeet",
+        "speed_units" : "knots"
     }
 }
