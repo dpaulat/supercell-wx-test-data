@@ -133,6 +133,7 @@
     "unit" : {
         "accumulation_units" : "inches",
         "echo_tops_units" : "kilofeet",
+        "other_units" : "default",
         "speed_units" : "knots"
     }
 }

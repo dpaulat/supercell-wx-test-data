@@ -150,6 +150,7 @@
     "unit" : {
         "accumulation_units" : 1,
         "echo_tops_units" : 1,
+        "other_units" : 1,
         "speed_units" : 1
     }
 }
