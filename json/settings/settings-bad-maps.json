@@ -35,6 +35,8 @@
         "alert_location_method" : "fixed",
         "alert_latitude" : 0,
         "alert_longitude" : 0,
+        "alert_radar_site" : "default",
+        "alert_radius" : 0,
         "alert_county" : "",
         "ignore_missing_codecs" : false,
         "FF_enabled" : false,
@@ -174,6 +176,7 @@
         "accumulation_units" : "inches",
         "echo_tops_units" : "kilofeet",
         "other_units" : "default",
-        "speed_units" : "knots"
+        "speed_units" : "knots",
+        "distance_units": "kilometers"
     }
 }
