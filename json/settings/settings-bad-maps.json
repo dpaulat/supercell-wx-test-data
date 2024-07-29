@@ -177,6 +177,6 @@
         "echo_tops_units" : "kilofeet",
         "other_units" : "default",
         "speed_units" : "knots",
-        "distance_units": "kilometers"
+        "distance_units": "miles"
     }
 }
