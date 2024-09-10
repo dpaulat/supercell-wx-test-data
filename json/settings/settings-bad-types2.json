@@ -36,6 +36,7 @@
         "alert_radar_site" : 1,
         "alert_radius" : "",
         "alert_county" : 1,
+        "alert_wfo" : 1,
         "ignore_missing_codecs" : "",
         "FF_enabled" : "",
         "SV_enabled" : "",
