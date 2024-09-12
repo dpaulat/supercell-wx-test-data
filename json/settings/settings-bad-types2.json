@@ -169,7 +169,8 @@
         "level2_settings_expanded" : "",
         "level3_products_expanded" : "",
         "map_settings_expanded" : "",
-        "timeline_expanded" : ""
+        "timeline_expanded" : "",
+        "main_ui_state" : true
     },
     "unit" : {
         "accumulation_units" : 1,
