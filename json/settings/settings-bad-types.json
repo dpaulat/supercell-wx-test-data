@@ -172,7 +172,8 @@
         "level3_products_expanded" : "",
         "map_settings_expanded" : "",
         "timeline_expanded" : "",
-        "main_ui_state" : 1
+        "main_ui_state" : 1,
+        "main_ui_geometry" : 1
     },
     "unit" : {
         "accumulation_units" : 1,
