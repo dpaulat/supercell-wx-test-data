@@ -112,6 +112,170 @@
         }
     ],
     "palette" : {
+        "alerts" : {
+            "MA" : {
+                "base" : {
+                    "line_color" : "#ffff7f00",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                },
+                "tornado_possible" : {
+                    "line_color" : "#ff000000",
+                    "highlight_color" : "#ffff7f00",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                },
+                "inactive" : {
+                    "line_color" : "#ff7f3f00",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                }
+            },
+            "FF" : {
+                "base" : {
+                    "line_color" : "#ff00ff00",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                },
+                "considerable" : {
+                    "line_color" : "#ff000000",
+                    "highlight_color" : "#ff00ff00",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                },
+                "catastrophic" : {
+                    "line_color" : "#ffff0000",
+                    "highlight_color" : "#ff00ff00",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                },
+                "inactive" : {
+                    "line_color" : "#ff007f00",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                }
+            },
+            "SV" : {
+                "base" : {
+                    "line_color" : "#ffffff00",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                },
+                "considerable" : {
+                    "line_color" : "#ffff0000",
+                    "highlight_color" : "#ffffff00",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                },
+                "destructive" : {
+                    "line_color" : "#ffff0000",
+                    "highlight_color" : "#ffffff00",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                },
+                "tornado_possible" : {
+                    "line_color" : "#ff000000",
+                    "highlight_color" : "#ffffff00",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                },
+                "inactive" : {
+                    "line_color" : "#ff7f7f00",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                }
+            },
+            "SQ" : {
+                "base" : {
+                    "line_color" : "#ff00ffff",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                },
+                "inactive" : {
+                    "line_color" : "#ff007f7f",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                }
+            },
+            "TO" : {
+                "base" : {
+                    "line_color" : "#ffff0000",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                },
+                "considerable" : {
+                    "line_color" : "#ffff00ff",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                },
+                "catastrophic" : {
+                    "line_color" : "#ff000000",
+                    "highlight_color" : "#ffff00ff",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                },
+                "observed" : {
+                    "line_color" : "#ff000000",
+                    "highlight_color" : "#ffff0000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                },
+                "inactive" : {
+                    "line_color" : "#ff7f0000",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 9,
+                    "highlight_width" : 9,
+                    "border_width" : 9
+                }
+            }
+        },
         "BR" : ":/res/palettes/wct/DR.pal",
         "BV" : ":/res/palettes/wct/DV.pal",
         "SW" : ":/res/palettes/wct/SW.pal",
