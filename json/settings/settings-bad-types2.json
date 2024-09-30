@@ -108,6 +108,170 @@
         }
     ],
     "palette" : {
+        "alerts" : {
+            "MA" : {
+                "base" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                },
+                "tornado_possible" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                },
+                "inactive" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                }
+            },
+            "FF" : {
+                "base" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                },
+                "considerable" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                },
+                "catastrophic" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                },
+                "inactive" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                }
+            },
+            "SV" : {
+                "base" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                },
+                "considerable" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                },
+                "destructive" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                },
+                "tornado_possible" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                },
+                "inactive" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                }
+            },
+            "SQ" : {
+                "base" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                },
+                "inactive" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                }
+            },
+            "TO" : {
+                "base" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                },
+                "considerable" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                },
+                "catastrophic" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                },
+                "observed" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                },
+                "inactive" : {
+                    "line_color" : 1,
+                    "highlight_color" : 1,
+                    "border_color" : 1,
+                    "line_width" : "",
+                    "highlight_width" : "",
+                    "border_width" : ""
+                }
+            }
+        },
         "BR" : 1,
         "BV" : 1,
         "SW" : 1,

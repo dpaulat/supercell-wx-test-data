@@ -112,6 +112,170 @@
         }
     ],
     "palette" : {
+        "alerts" : {
+            "MA" : {
+                "base" : {
+                    "line_color" : "#ffff7f00",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                },
+                "tornado_possible" : {
+                    "line_color" : "#ff000000",
+                    "highlight_color" : "#ffff7f00",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                },
+                "inactive" : {
+                    "line_color" : "#ff7f3f00",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                }
+            },
+            "FF" : {
+                "base" : {
+                    "line_color" : "#ff00ff00",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                },
+                "considerable" : {
+                    "line_color" : "#ff000000",
+                    "highlight_color" : "#ff00ff00",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                },
+                "catastrophic" : {
+                    "line_color" : "#ffff0000",
+                    "highlight_color" : "#ff00ff00",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                },
+                "inactive" : {
+                    "line_color" : "#ff007f00",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                }
+            },
+            "SV" : {
+                "base" : {
+                    "line_color" : "#ffffff00",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                },
+                "considerable" : {
+                    "line_color" : "#ffff0000",
+                    "highlight_color" : "#ffffff00",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                },
+                "destructive" : {
+                    "line_color" : "#ffff0000",
+                    "highlight_color" : "#ffffff00",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                },
+                "tornado_possible" : {
+                    "line_color" : "#ff000000",
+                    "highlight_color" : "#ffffff00",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                },
+                "inactive" : {
+                    "line_color" : "#ff7f7f00",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                }
+            },
+            "SQ" : {
+                "base" : {
+                    "line_color" : "#ff00ffff",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                },
+                "inactive" : {
+                    "line_color" : "#ff007f7f",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                }
+            },
+            "TO" : {
+                "base" : {
+                    "line_color" : "#ffff0000",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                },
+                "considerable" : {
+                    "line_color" : "#ffff00ff",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                },
+                "catastrophic" : {
+                    "line_color" : "#ff000000",
+                    "highlight_color" : "#ffff00ff",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                },
+                "observed" : {
+                    "line_color" : "#ff000000",
+                    "highlight_color" : "#ffff0000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                },
+                "inactive" : {
+                    "line_color" : "#ff7f0000",
+                    "highlight_color" : "#ff000000",
+                    "border_color" : "#ff000000",
+                    "line_width" : 1,
+                    "highlight_width" : 0,
+                    "border_width" : 0
+                }
+            }
+        },
         "BR" : "",
         "BV" : "",
         "SW" : "",
