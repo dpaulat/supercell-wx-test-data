@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Null",
+        "latitude" : 0,
+        "longitude" : 0
+    },
+    {
+        "name" : "North",
+        "latitude" : 90,
+        "longitude" : 0
+    },
+    {
+        "name" : "South",
+        "latitude" : -90,
+        "longitude" : 0
+    },
+    {
+        "name" : "East",
+        "latitude" : 0,
+        "longitude" : 90
+    },
+    {
+        "name" : "West",
+        "latitude" : 0,
+        "longitude" : -90
+    }
+]
