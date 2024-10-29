@@ -24,6 +24,7 @@
         "show_map_center" : false,
         "show_map_logo" : true,
         "theme" : "default",
+        "theme_file" : "",
         "track_location" : false,
         "update_notifications" : true,
         "warnings_provider" : "https://warnings.cod.edu"
