@@ -31,7 +31,8 @@
         "theme_file" : "",
         "track_location" : false,
         "update_notifications" : true,
-        "warnings_provider" : "https://warnings.cod.edu"
+        "warnings_provider" : "https://warnings.cod.edu",
+        "cursor_icon_always_on" : false
     },
     "audio" : {
         "alert_sound_file" : ":/res/audio/wikimedia/Emergency_Alert_System_Attention_Signal_20s.ogg",
