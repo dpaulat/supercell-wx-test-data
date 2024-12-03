@@ -29,7 +29,8 @@
         "theme_file" : 1,
         "track_location" : "",
         "update_notifications" : "",
-        "warnings_provider" : 1
+        "warnings_provider" : 1,
+        "cursor_icon_always_on" : ""
     },
     "audio" : {
         "alert_sound_file" : 1,
