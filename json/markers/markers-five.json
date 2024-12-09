@@ -2,26 +2,36 @@
     {
         "name" : "Null",
         "latitude" : 0,
-        "longitude" : 0
+        "longitude" : 0,
+        "icon" : "images/location-marker",
+        "icon-color" : "#ffff0000"
     },
     {
         "name" : "North",
         "latitude" : 90,
-        "longitude" : 0
+        "longitude" : 0,
+        "icon" : "images/location-marker",
+        "icon-color" : "#ffff0000"
     },
     {
         "name" : "South",
         "latitude" : -90,
-        "longitude" : 0
+        "longitude" : 0,
+        "icon" : "images/location-marker",
+        "icon-color" : "#ffff0000"
     },
     {
         "name" : "East",
         "latitude" : 0,
-        "longitude" : 90
+        "longitude" : 90,
+        "icon" : "images/location-marker",
+        "icon-color" : "#ffff0000"
     },
     {
         "name" : "West",
         "latitude" : 0,
-        "longitude" : -90
+        "longitude" : -90,
+        "icon" : "images/location-marker",
+        "icon-color" : "#ffff0000"
     }
 ]

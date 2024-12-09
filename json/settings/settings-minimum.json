@@ -50,6 +50,7 @@
         "TO_enabled" : false
     },
     "hotkeys" : {
+        "add_location_marker" : "M",
         "change_map_style" : "Z",
         "copy_cursor_coordinates" : "Ctrl+C",
         "copy_map_coordinates" : "Ctrl+Shift+C",
