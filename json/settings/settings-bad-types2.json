@@ -46,6 +46,7 @@
         "TO_enabled" : ""
     },
     "hotkeys" : {
+        "add_location_marker" : 1,
         "change_map_style" : 1,
         "copy_cursor_coordinates" : 1,
         "copy_map_coordinates" : 1,
