@@ -90,25 +90,29 @@
             "map_style" : 1,
             "radar_site" : 1,
             "radar_product_group" : 1,
-            "radar_product" : 1
+            "radar_product" : 1,
+            "smoothing_enabled" : ""
         },
         {
             "map_style" : 1,
             "radar_site" : 1,
             "radar_product_group" : 1,
-            "radar_product" : 1
+            "radar_product" : 1,
+            "smoothing_enabled" : ""
         },
         {
             "map_style" : 1,
             "radar_site" : 1,
             "radar_product_group" : 1,
-            "radar_product" : 1
+            "radar_product" : 1,
+            "smoothing_enabled" : ""
         },
         {
             "map_style" : 1,
             "radar_site" : 1,
             "radar_product_group" : 1,
-            "radar_product" : 1
+            "radar_product" : 1,
+            "smoothing_enabled" : ""
         }
     ],
     "palette" : {
@@ -306,6 +310,7 @@
         "TO-inactive" : 1
     },
     "product" : {
+        "show_smoothed_range_folding" : "",
         "sti_forecast_enabled" : "",
         "sti_past_enabled" : ""
     },
