@@ -24,6 +24,7 @@
         "nmea_baud_rate" : 1000000000,
         "nmea_source" : "",
         "positioning_plugin" : "default",
+        "process_module_warnings_enabled" : true,
         "show_map_attribution" : true,
         "show_map_center" : false,
         "show_map_logo" : true,
