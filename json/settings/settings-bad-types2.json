@@ -29,7 +29,8 @@
         "update_notifications" : "",
         "warnings_provider" : 1,
         "cursor_icon_always_on" : "",
-        "radar_site_threshold" : ""
+        "radar_site_threshold" : "",
+        "high_privilege_warning_enabled" : ""
     },
     "audio" : {
         "alert_sound_file" : 1,
