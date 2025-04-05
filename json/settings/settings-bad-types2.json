@@ -1,6 +1,7 @@
 {
     "general" : {
         "anti_aliasing_enabled" : "",
+        "center_on_radar_selection" : "",
         "clock_format" : 1,
         "custom_style_draw_layer" : 1,
         "custom_style_url" : 1,
