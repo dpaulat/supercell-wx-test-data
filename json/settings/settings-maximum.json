@@ -18,7 +18,7 @@
         "grid_height" : 2,
         "loop_delay" : 15000,
         "loop_speed" : 99.99,
-        "loop_time" : 1440,
+        "loop_time" : 2880,
         "map_provider" : "maptiler",
         "mapbox_api_key" : "?",
         "maptiler_api_key" : "?",
