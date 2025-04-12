@@ -32,7 +32,8 @@
         "warnings_provider" : "https://warnings.cod.edu",
         "cursor_icon_always_on" : false,
         "radar_site_threshold" : 0,
-        "high_privilege_warning_enabled" : true
+        "high_privilege_warning_enabled" : true,
+        "cursor_icon_scale" : 1
     },
     "audio" : {
         "alert_sound_file" : ":/res/audio/wikimedia/Emergency_Alert_System_Attention_Signal_20s.ogg",
