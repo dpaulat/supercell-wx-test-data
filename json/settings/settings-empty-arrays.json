@@ -63,6 +63,8 @@
         "map_rotate_counterclockwise" : "Q",
         "map_zoom_in" : "=",
         "map_zoom_out" : "-",
+        "product_category_last" : "Ctrl+[",
+        "product_category_next" : "Ctrl+]",
         "product_tilt_decrease" : "[",
         "product_tilt_increase" : "]",
         "select_l2_ref" : "F1",
