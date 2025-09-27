@@ -1,6 +1,7 @@
 {
     "general" : {
         "anti_aliasing_enabled" : true,
+        "auto_navigate_to_wsr88d_only" : true,
         "center_on_radar_selection" : false,
         "clock_format" : "24-hour",
         "custom_style_draw_layer" : ".*\\.annotations\\.points",
@@ -285,6 +286,43 @@
                     "line_width" : 3,
                     "highlight_width" : 0,
                     "border_width" : 1
+                }
+            }
+        },
+        "radar_site_status" : {
+            "Up" : {
+                "button" : {
+                    "button_color" : "#6642fa42",
+                    "hover_color" : "#ff279627",
+                    "active_color" : "#ff099609"
+                }
+            },
+            "Warning" : {
+                "button" : {
+                    "button_color" : "#66f8fa42",
+                    "hover_color" : "#ff959627",
+                    "active_color" : "#ff949609"
+                }
+            },
+            "Down" : {
+                "button" : {
+                    "button_color" : "#66fa4242",
+                    "hover_color" : "#ff962727",
+                    "active_color" : "#ff960909"
+                }
+            },
+            "HighLatency" : {
+                "button" : {
+                    "button_color" : "#66fa8342",
+                    "hover_color" : "#ff964e27",
+                    "active_color" : "#ff963b09"
+                }
+            },
+            "?" : {
+                "button" : {
+                    "button_color" : "#664296fa",
+                    "hover_color" : "#ff4296fa",
+                    "active_color" : "#ff4296fa"
                 }
             }
         },

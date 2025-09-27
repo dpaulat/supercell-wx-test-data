@@ -1,6 +1,7 @@
 {
     "general" : {
         "anti_aliasing_enabled" : true,
+        "auto_navigate_to_wsr88d_only" : true,
         "center_on_radar_selection" : false,
         "clock_format" : "24-hour",
         "custom_style_draw_layer" : ".*\\.annotations\\.points",
@@ -285,6 +286,8 @@
                     "border_width" : 1
                 }
             }
+        },
+        "radar_site_status" : {
         },
         "BR" : ":/res/palettes/wct/DR.pal",
         "BV" : ":/res/palettes/wct/DV.pal",

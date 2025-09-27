@@ -1,6 +1,7 @@
 {
     "general" : {
         "anti_aliasing_enabled" : "",
+        "auto_navigate_to_wsr88d_only" : "",
         "center_on_radar_selection" : "",
         "clock_format" : 1,
         "custom_style_draw_layer" : 1,
@@ -283,6 +284,43 @@
                     "line_width" : "",
                     "highlight_width" : "",
                     "border_width" : ""
+                }
+            }
+        },
+        "radar_site_status" : {
+            "Up" : {
+                "button" : {
+                    "button_color" : 1,
+                    "hover_color" : 1,
+                    "active_color" : 1
+                }
+            },
+            "Warning" : {
+                "button" : {
+                    "button_color" : 1,
+                    "hover_color" : 1,
+                    "active_color" : 1
+                }
+            },
+            "Down" : {
+                "button" : {
+                    "button_color" : 1,
+                    "hover_color" : 1,
+                    "active_color" : 1
+                }
+            },
+            "HighLatency" : {
+                "button" : {
+                    "button_color" : 1,
+                    "hover_color" : 1,
+                    "active_color" : 1
+                }
+            },
+            "?" : {
+                "button" : {
+                    "button_color" : 1,
+                    "hover_color" : 1,
+                    "active_color" : 1
                 }
             }
         },
