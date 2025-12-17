@@ -125,6 +125,41 @@
             "radar_product_group" : 1,
             "radar_product" : 1,
             "smoothing_enabled" : ""
+        },
+        {
+            "map_style" : 1,
+            "radar_site" : 1,
+            "radar_product_group" : 1,
+            "radar_product" : 1,
+            "smoothing_enabled" : ""
+        },
+        {
+            "map_style" : 1,
+            "radar_site" : 1,
+            "radar_product_group" : 1,
+            "radar_product" : 1,
+            "smoothing_enabled" : ""
+        },
+        {
+            "map_style" : 1,
+            "radar_site" : 1,
+            "radar_product_group" : 1,
+            "radar_product" : 1,
+            "smoothing_enabled" : ""
+        },
+        {
+            "map_style" : 1,
+            "radar_site" : 1,
+            "radar_product_group" : 1,
+            "radar_product" : 1,
+            "smoothing_enabled" : ""
+        },
+        {
+            "map_style" : 1,
+            "radar_site" : 1,
+            "radar_product_group" : 1,
+            "radar_product" : 1,
+            "smoothing_enabled" : ""
         }
     ],
     "palette" : {

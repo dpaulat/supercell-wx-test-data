@@ -127,6 +127,41 @@
             "radar_product_group" : "L3",
             "radar_product" : "N0X",
             "smoothing_enabled" : false
+        },
+        {
+            "map_style" : "?",
+            "radar_site" : "KEAX",
+            "radar_product_group" : "L3",
+            "radar_product" : "DVL",
+            "smoothing_enabled" : false
+        },
+        {
+            "map_style" : "?",
+            "radar_site" : "KEAX",
+            "radar_product_group" : "L3",
+            "radar_product" : "EET",
+            "smoothing_enabled" : false
+        },
+        {
+            "map_style" : "?",
+            "radar_site" : "KEAX",
+            "radar_product_group" : "L3",
+            "radar_product" : "N0S",
+            "smoothing_enabled" : false
+        },
+        {
+            "map_style" : "?",
+            "radar_site" : "KEAX",
+            "radar_product_group" : "L3",
+            "radar_product" : "N0H",
+            "smoothing_enabled" : false
+        },
+        {
+            "map_style" : "?",
+            "radar_site" : "KEAX",
+            "radar_product_group" : "L3",
+            "radar_product" : "N0K",
+            "smoothing_enabled" : false
         }
     ],
     "palette" : {

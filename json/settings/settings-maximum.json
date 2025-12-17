@@ -15,8 +15,8 @@
             12,
             72
         ],
-        "grid_width" : 2,
-        "grid_height" : 2,
+        "grid_width" : 3,
+        "grid_height" : 3,
         "loop_delay" : 15000,
         "loop_speed" : 99.99,
         "loop_time" : 2880,
@@ -128,6 +128,41 @@
             "radar_site" : "KLSX",
             "radar_product_group" : "L3",
             "radar_product" : "N0X",
+            "smoothing_enabled" : false
+        },
+        {
+            "map_style" : "?",
+            "radar_site" : "KLSX",
+            "radar_product_group" : "L3",
+            "radar_product" : "DVL",
+            "smoothing_enabled" : false
+        },
+        {
+            "map_style" : "?",
+            "radar_site" : "KLSX",
+            "radar_product_group" : "L3",
+            "radar_product" : "EET",
+            "smoothing_enabled" : false
+        },
+        {
+            "map_style" : "?",
+            "radar_site" : "KLSX",
+            "radar_product_group" : "L3",
+            "radar_product" : "N0S",
+            "smoothing_enabled" : false
+        },
+        {
+            "map_style" : "?",
+            "radar_site" : "KLSX",
+            "radar_product_group" : "L3",
+            "radar_product" : "N0H",
+            "smoothing_enabled" : false
+        },
+        {
+            "map_style" : "?",
+            "radar_site" : "KLSX",
+            "radar_product_group" : "L3",
+            "radar_product" : "N0K",
             "smoothing_enabled" : false
         }
     ],
