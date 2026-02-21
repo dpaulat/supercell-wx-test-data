@@ -97,7 +97,8 @@
         "timeline_step_back" : 1,
         "timeline_play" : 1,
         "timeline_step_next" : 1,
-        "timeline_step_end" : 1
+        "timeline_step_end" : 1,
+        "toggle_full_screen" : 1
     },
     "maps" : [
         {

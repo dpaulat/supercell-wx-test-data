@@ -99,7 +99,8 @@
         "timeline_step_back" : "Left",
         "timeline_play" : "Space",
         "timeline_step_next" : "Right",
-        "timeline_step_end" : "Ctrl+Right"
+        "timeline_step_end" : "Ctrl+Right",
+        "toggle_full_screen" : "F11"
     },
     "maps" : [
         {
