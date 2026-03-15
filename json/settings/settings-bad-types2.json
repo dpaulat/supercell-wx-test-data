@@ -49,6 +49,7 @@
         "alert_county" : 1,
         "alert_wfo" : 1,
         "ignore_missing_codecs" : "",
+        "master_volume" : "",
         "FF_enabled" : "",
         "SV_enabled" : "",
         "SQ_enabled" : "",
