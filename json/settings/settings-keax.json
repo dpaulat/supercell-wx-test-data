@@ -437,6 +437,7 @@
         "timeline_expanded" : true,
         "main_ui_state" : "",
         "main_ui_geometry" : "",
+        "map_annotation_state" : "",
         "map_pane_splitter_state" : "",
         "map_pane_popout_state" : "",
         "map_pane_view_link_state" : "",
@@ -447,6 +448,7 @@
         "echo_tops_units" : "kilofeet",
         "other_units" : "default",
         "speed_units" : "knots",
-        "distance_units" : "miles"
+        "distance_units" : "miles",
+        "radar_beam_height_reference" : "mean sea level"
     }
 }
