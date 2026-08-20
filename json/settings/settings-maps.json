@@ -455,6 +455,6 @@
         "other_units" : "default",
         "speed_units" : "knots",
         "distance_units" : "miles",
-        "radar_beam_height_reference" : "above radar level"
+        "radar_beam_height_reference" : "mean sea level"
     }
 }
